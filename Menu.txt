@@ -21,5 +21,15 @@ Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. 
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Varios.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]S[/COLOR][COLOR white]éries[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Varios.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 
 </channels>
