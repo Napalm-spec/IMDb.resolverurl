@@ -1,0 +1,285 @@
+<channels>
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Grande Entrevista (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/agWt9bJzr2m1HY3A5InxXveUyIe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bDIYX0ZSX4CXBEPtOOxwTiaUeFE.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Grande Entrevista é um longa baseado em um caso real, dirigido por Philip Martin (The Crown) e que mostra os bastidores por trás da entrevista bombástica que a BBC obteve com o Príncipe Andrew (Rufus Sewell) em 2019.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1083658-scoop.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Bruxa dos Mortos: Baghead (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/hV1duOiPt8o4JxUltlSbYXMJehf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8gW4Natej69vekArRDiBm4n6d7l.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Após o falecimento de seu pai, Iris (Freya Allan) herda um antigo bar e se depara com um segredo obscuro: o local abriga uma entidade capaz de incorporar os mortos. Tentada a explorar os poderes da criatura e ajudar pessoas desesperadas em troca de dinheiro, Iris mergulha em um terreno perigoso.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.845783-baghead.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Fighter (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/keVfqCMKmJ55nHzmqR2Q5K7LwJt.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um líder de esquadrão brilhante, mas imprudente, e sua equipe de pilotos de elite enfrentam perigos e demônios internos ao se unirem para uma missão mortal.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.784651-Fighter.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Os Casagrandes: O Filme (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9L6qUlNYbL6XgYTXPKOlMtphzSu.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Ronnie Anne viaja até ao México para celebrar os seus 12 anos, mas liberta uma semideusa presa numa montanha. Felizmente, tem a família para a ajudar a resolver a crise!
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1216512-the-casagrandes-movie.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Fitting In (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5MOvht7UNAtEmBSjrLDv6dRlA9L.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Quando Lindy recebe o diagnóstico de uma doença reprodutiva, tudo o que ela pensava sobre sexo, feminilidade e relacionamentos vira de ponta-cabeça.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.986175-fitting-in.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Bob Marley: One Love (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/edJ2XEsDr03pAHbseJ4vDVgtd7k.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]A celebração da vida e música de um ícone que inspirou gerações com a sua mensagem de amor e unidade. Descobre a poderosa história de Bob Marley que retrata as adversidades e a jornada que originaram a sua música revolucionária.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.802219-bob-marley-one-love.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] 24 Hours with Gaspar (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/wpEbqJ2UYMx1dCgQW6kRgNAlmo4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fwkaNqmALBmzkBxrq2IrrNe230O.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR] Um detetive particular que só tem mais 24 horas de vida tenta solucionar o desaparecimento de sua amiga de infância.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1013240-24-jam-bersama-gaspar.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Murder Mubarak (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/pmmwZnr72wirrwXXFoTu5bmAm4N.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mw6ucZfre773Fb1BSSsvsvV8a9m.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR] Ao investigar o assassinato de um professor de ginástica em um clube de elite em Nova Deli, um detetive descobre os segredos sórdidos dos sócios ricaços.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1051023.Murder-Mubarak.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Irish Wish (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qz2QzkYzesbbL94rdUpZrFPhlRe.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]O homem dos sonhos de Maddie está prestes a casar com a sua melhor amiga, mas o seu destino muda quando pede um desejo numa pedra antiga na Irlanda: o amor verdadeiro.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1019420-irish-wish.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Madame Web (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Cassandra Webb é uma paramédica de Manhattan que tem capacidades de clarividência. Forçada a enfrentar revelações sobre seu passado, cria laços com três jovens destinadas a futuros poderosos... se todas conseguirem sobreviver ao mortífero presente.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.634492-madame-web.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] The Book of Clarence (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/p6rz1Kz9YA9TOVRk0R5OUJhg7ry.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x0kapNdCErgiHSks2FljYT2MO00.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Clarence, um cidadão de Jerusalém sem sorte, embarca numa tentativa mal conduzida de capitalizar a fama e influência do Messias para seu ganho pessoal. A jornada leva-o a uma exploração da fé e a um caminho inesperado.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.976584-the-book-of-clarence.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Foe (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9u5fTy6XdDIjzTIf60Li6f9q0nu.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em 1972, um avião uruguaio despenhou-se no inóspito coração dos Andes, mas os sobreviventes encontraram a sua melhor esperança uns nos outros.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.760245-foe.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Sociedade da Neve (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7fQTmvKgVGxifieVryqqlxohkoW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em 1972, um avião uruguaio despenhou-se no inóspito coração dos Andes, mas os sobreviventes encontraram a sua melhor esperança uns nos outros.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.906126-la-sociedad-de-la-nieve.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] O Aprendiz do Tigre (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gcnc7ABoQ0aE752fpGxDzwRjmJ0.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Conta a história de Tom, um menino que se torna aprendiz de feiticeiro ao conhecer o tigre falante Mr. Hu. O animal muda de forma e leva o garoto a um mundo mágico com outros seres mitológicos, como a fênix e o dragão.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.598387-the-tiger-s-apprentice.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lights Out (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um ex-soldado à deriva se torna um lutador clandestino com a ajuda de um ex-presidiário recém-libertado, colocando os dois contra policiais corruptos e assassinos de aluguel que estão atrás deles e de todos aqueles com quem se importam.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.931642-lights-out.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Em Ruínas (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/vT3xahepzP796ei0NiZIZ6t8vsl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Após um terremoto transformar Seul em uma terra sem lei, um caçador decide resgatar uma adolescente sequestrada por um médico insano.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.933131-em-ruinas.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lift: Golpe no Ar (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um ladrão profissional e o seu bando genial lançam-se num golpe arrojado: roubar 500 milhões de dólares em ouro de um cofre num avião... a 12 000 metros de altitude.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.955916-lift.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] O Retorno dos Thundermans (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]A família Thunderman está vivendo na cidade de Metroburg, onde lutam contra o crime há 3 anos. De repente, são enviados de volta para Huddenville e precisam se adaptar novamente. Enquanto Hank e Barb tentam voltar para casa, os outros membros da família tentam recuperar os poderes de super-heróis e fazer amigos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.58981-the-thundermans.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Águas Negras (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gf7byRrH3m0URyBQj78t21RfloF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Ray Waller é um ex- jogador de basebol forçado a reformar-se precocemente devido a uma doença degenerativa, que se muda para uma nova casa com a sua preocupada mulher Eve, a filha adolescente Izzy e o seu jovem filho Elliot. Secretamente esperando, contra todas as probabilidades, regressar ao basebol profissional, Ray convence Eve que a cintilante piscina no quintal da nova casa será divertida para os seus filhos e uma boa oportunidade de fisioterapia para ele. Mas um sombrio segredo no passado da casa desencadeará uma força malévola que arrastará a família para as profundezas de um terror inescapável.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1072342-night-swim.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Ricky Stanicky (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/syozWkk4Qi4s9RWefcfwCmBqRrt.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Três amigos de infância pregam uma peça que dá errado e inventam o imaginário Ricky Stanicky para não serem pegos! Vinte anos depois, eles ainda usam o inexistente Ricky como um álibi para seus comportamentos imaturos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1022690-ricky-stanicky.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Donzela (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ji5sD9AS4UlbJYB0HJCRQMXrgZd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/t982tzXvro013v2mD0EDXXahv6i.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]O casamento de uma jovem com um príncipe encantador transforma-se numa luta pela sobrevivência quando ela é oferecida a um dragão como sacrifício.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.763215-damsel.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Turma da Mônica Jovem: Reflexos do Medo (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/wBIyjl6kVxPmyPSUWhlk4PINxz5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9AfoiS7LNeV7aRSuRskY71s5jpi.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em uma nova escola e agora no ensino médio, o primeiro dia de aula já reservava uma surpresa: os amigos Mônica (Sophia Valverde), Cebola (Xande Valois), Magali (Bianca Paiva), Cascão (Theo Salomão) e Milena (Carol Roberto) descobrem que o Museu do Limoeiro será leiloado. A turma decide se unir em uma missão para tentar salvá-lo, e enquanto investigam o que está acontecendo, eles não demoram muito para perceber que podem estar lidando com uma ameaça muito maior do que imaginam.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1056437-turma-da-monica-jovem-reflexos-do-medo.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Zona de Risco (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em Land of Bad, um piloto de drone das Forças Aéreas é a única esperança de uma força-tarefa presa em uma emboscada. No thriller de ação, a missão de um esquadrão de operações especiais da Força Delta vira um grande desastre.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.969492-land-of-bad.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Mea Culpa (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nqywbJGJ4yfUGzumvd5gmGxchjn.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Mea Culpa, dirigido por Tyler Perry, é um filme de suspense criminal onde a advogada criminalista, Mea Harper (Kelly Rowland), aceita pegar o caso Zyair Malloy (Trevante Rhodes), um artista sedutor que foi acusado de assassinato. Mea Harper, então, tem a missão de descobrir se Zyair é ou não o autor do crime, mas Mea descobre que todo mundo têm culpa de algo e se vê em um labirinto entre sua família, seu dever, suas emoções e desejos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1090874-mea-culpa.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Upgrade: As Cores do Amor (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pRmF6VBsRnvWCbLB9P80UvZFMyK.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Ana é uma estagiária ambiciosa que sonha com uma carreira no mundo da arte enquanto tenta impressionar sua exigente chefe, Claire. Quando ela é promovida para a primeira classe em uma viagem de trabalho, ela conhece o belo Will, que confunde Ana com seu chefe – uma mentira inocente que desencadeia uma cadeia glamorosa de eventos, romance e oportunidades, até que sua mentira ameaça vir à tona.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1014590-upgraded.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Criptofraude (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vzO729sITNJ1jB6Y9AJpIhlbvb2.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Neste documentário sobre um crime real, três homens exploram o mercado de criptomoedas para aplicar golpes em investidores e bancar uma vida de luxo.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1213997-bitconned.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Argylle - O Superespião (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1ojCiMpYmCciIFuEcgLOOGLbUND.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]História do maior espião do mundo, Argylle, enquanto ele embarca em uma aventura pelo mundo.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.848538-argylle.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Code 8: Renegados - Parte 2 (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/mTCUzU3VhueEIxK1y5mBnHBIZPQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em uma cidade onde pessoas com superpoderes são vigiadas e oprimidas, um ex-criminoso se une a um traficante para proteger uma adolescente de um policial corrupto.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.932420-code-8-part-ii.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+</channels>
