@@ -1,0 +1,54 @@
+<channels>
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Blue Beetle (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3H9NA1KWEQN0ItL3Wl3SFZYP6yV.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Jaime Reyes, regressa da universidade cheio de aspirações para o futuro, mas descobre que a sua casa não está bem como a deixou. Enquanto tenta encontrar um objetivo de vida vê-se inesperadamente na posse de uma antiga relíquia de biotecnologia alienígena: o Besouro. Quando o Besouro se liga à sua coluna vertebral, Jaime passa a ter uma incrível armadura de poderes extraordinários e imprevisíveis que o torna no super-herói Blue Beetle.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.565770-blue-beetle.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Aquaman e o Reino Perdido (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ysHxydAZzfhc4kV5ae8IBbVG5gk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Tendo falhado em derrotar Aquaman da primeira vez, o Black Manta, ainda impulsionado pela necessidade de vingar a morte do seu pai, não poupará esforços para finalmente derrubar Aquaman. Desta vez, Black Manta está mais forte que nunca, empunhando o poder do mítico Tridente Negro, que liberta uma antiga e maligna força.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.572802-aquaman-and-the-lost-kingdom.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] 12 Horas Para o Fim do Mundo (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/8leDrFajsIuKe10tCNncfAqBct3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8pFUrTykJdIkXpbHZcTKPEpniEf.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um pai que trabalha em uma estação espacial precisa salvar sua filha de 15 anos após uma devastadora chuva de meteoros atingir a Terra. Usando apenas telefones e câmeras via satélite, ele embarca numa jornada emocionante para resgatá-la.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.864101-Mira.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Confidential Informant (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/tjgvRagGNhSCznCX65w2hOGBOEd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/euO884625eFLfKLoc0MtFs5QiOS.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um detetive de polícia que sofre de cancro faz um acordo com um informante para ser morto no cumprimento do dever, para que a sua família possa receber os pesados ​​benefícios por morte do departamento.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.1070802-confidential-informant.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] As Marvels (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w4pRLYYbhHn3sh9kqRgPZM6GjyS.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Enviada para uma fenda espacial anómala ligada a um Kree, os poderes de Carol Danvers, a Capitã Marvel, misturam-se com os da superfã de Jersey City, Kamala Khan, conhecida como Sra. Marvel, e a sobrinha de Carol, agora S.A.B.E.R. astronauta Monica Rambeau. Juntas, unem esforços e aprendem a trabalhar para salvar o universo como “As Marvel.”
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.609681-the-marvels.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+</channels>
