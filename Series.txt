@@ -1,0 +1,16 @@
+<channels>
+
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lucifer (2016)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season1.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+</channels>
