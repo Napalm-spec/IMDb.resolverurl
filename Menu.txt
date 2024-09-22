@@ -8,7 +8,7 @@
 Lembre-se de fornecer o máximo de detalhes possível ao relatar um link quebrado.
 Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Lancamentos.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/Lancamentos.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -18,7 +18,7 @@ Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 <info>
 Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Varios.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/Varios.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -28,7 +28,7 @@ Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. 
 <info>
 Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Varios.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/Series.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 
