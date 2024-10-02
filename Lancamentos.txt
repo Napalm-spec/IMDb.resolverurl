@@ -13,6 +13,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Madame Web (2024)[/COLOR][/B]</name>
+<logo>https://image.tmdb.org/t/p/original/2o48U3kMXGIqRAkKZQ3n5OTWSBy.png</logos>
 <thumbnail>https://image.tmdb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg</fanart>
 <info>
