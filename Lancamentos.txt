@@ -2,6 +2,16 @@
 
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Prisioneiro do Caos (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/69rCc2fJ0gqOZCKCnQLIRrClvpY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eXQ8O0ykuEB8dUJhq2WJll4vXmA.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Condenado injustamente por homicídio, um desastrado vendedor de artigos eletrónicos enfrenta polícias corruptos e conspirações criminosas para provar a sua inocência.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/1210794-strul.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Fighter (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/keVfqCMKmJ55nHzmqR2Q5K7LwJt.jpg</fanart>
