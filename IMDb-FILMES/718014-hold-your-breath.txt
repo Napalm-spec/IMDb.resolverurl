@@ -1,0 +1,40 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/r6xv0w9vi8p0gm</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/4kHtK3nnbOHgwnKispurL1GVd8g.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/njqPtIyiYson7S2NWU2hHvSpKOi.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Drama | Suspense | Terror
+[COLOR lime]Duração:[/COLOR] 1 H 34 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6,4
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/367oq068unwn7o</link>
+<subtitle>https://subs.warezcdn.link/240605-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/4kHtK3nnbOHgwnKispurL1GVd8g.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/njqPtIyiYson7S2NWU2hHvSpKOi.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Drama | Suspense | Terror
+[COLOR lime]Duração:[/COLOR] 1 H 34 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6,4
+</info>
+</item>
++++++++++
+
