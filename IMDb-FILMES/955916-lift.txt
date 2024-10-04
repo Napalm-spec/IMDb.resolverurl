@@ -19,8 +19,8 @@
 +++++++++
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO</title>
-<link>plugin://plugin.video.resolverurl_player?url=</link>
-<subtitle>LEGENDAS</subtitle>
+<link>https://besttv_p32178:vovesari29@vega.myseedbox.site/private/Downloads/Filmes%202024/Lift:%20Roubo%20Nas%20Alturas%20(2024)/Lift:%20Roubo%20Nas%20Alturas.mkv</link>
+<subtitle>https://besttv_p32178:vovesari29@vega.myseedbox.site/private/Downloads/Filmes%202024/Lift:%20Roubo%20Nas%20Alturas%20(2024)/Lift:%20Roubo%20Nas%20Alturas.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
 <info>
