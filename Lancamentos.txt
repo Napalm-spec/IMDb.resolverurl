@@ -51,6 +51,15 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/IMDb.763215-damsel.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Sociedade da Neve (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7fQTmvKgVGxifieVryqqlxohkoW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em 1972, um avião uruguaio despenhou-se no inóspito coração dos Andes, mas os sobreviventes encontraram a sua melhor esperança uns nos outros.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/906126-la-sociedad-de-la-nieve.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 
 </channels>
