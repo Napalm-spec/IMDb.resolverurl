@@ -1,6 +1,18 @@
 <channels>
 
 
+
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Prenda a Respiração (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4kHtK3nnbOHgwnKispurL1GVd8g.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/njqPtIyiYson7S2NWU2hHvSpKOi.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em Oklahoma, nos anos 30, durante terríveis tempestades de areia na região, uma mulher está convencida de que uma presença sinistra anda a ameaçar a sua família.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/718014-hold-your-breath.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Prisioneiro do Caos (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/69rCc2fJ0gqOZCKCnQLIRrClvpY.jpg</thumbnail>
