@@ -103,6 +103,15 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/1212073-60-minuten.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Sessenta Minutos (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]A brutal missão de vingança de um homem assume proporções nacionais quando se revela que ele é um antigo agente de uma poderosa organização clandestina conhecida como "Beekeepers".
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/866398-the-beekeeper.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 
 </channels>
