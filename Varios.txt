@@ -21,7 +21,6 @@
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.609681-the-marvels.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
-«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] The Collective (2023)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg</thumbnail>
@@ -32,4 +31,17 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-VARIOS/IMDb.1060090-the-collective.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Rebel Moon – Parte 1: Corte do Diretor (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/tfkLJWkJfb5Och03IoNGjis0cEG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Quando as forças implacáveis do Mundo-Mãe ameaçam uma pacata aldeia agrícola numa lua distante, uma desconhecida misteriosa torna-se a sua melhor esperança de sobrevivência.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/848326-rebel-moon-part-one-a-child-of-fire.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+
 </channels>
