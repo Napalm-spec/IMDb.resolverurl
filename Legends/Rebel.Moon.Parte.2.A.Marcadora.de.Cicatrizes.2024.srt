@@ -1,0 +1,3599 @@
+﻿1
+00:00:41,208 --> 00:00:44,375
+<i>Nos extremos do domínio do Mundo-Mãe,</i>
+
+2
+00:00:44,458 --> 00:00:49,416
+<i>rodeando o gigante gasoso Mara,</i>
+<i>ficava a pequena lua de Veldt.</i>
+
+3
+00:00:49,500 --> 00:00:55,541
+<i>Lá, uma aldeia de humildes agricultores</i>
+<i>levava uma vida simples e rural,</i>
+
+4
+00:00:55,625 --> 00:01:00,125
+{\an8}<i>até que a sombra de uma nave de guerra</i>
+<i>pairou sobre os campos.</i>
+
+5
+00:01:01,000 --> 00:01:03,791
+{\an8}<i>O comandante dela, almirante Noble,</i>
+
+6
+00:01:03,875 --> 00:01:06,916
+<i>exigiu mais do que o povo de Veldt</i>
+<i>poderia dar.</i>
+
+7
+00:01:07,000 --> 00:01:11,000
+<i>Então uma mulher chamada Kora</i>
+<i>e um homem chamado Gunnar</i>
+
+8
+00:01:11,083 --> 00:01:12,833
+<i>partiram da aldeia</i>
+
+9
+00:01:12,916 --> 00:01:17,083
+<i>para reunir guerreiros</i>
+<i>que lutassem contra o encouraçado.</i>
+
+10
+00:01:18,375 --> 00:01:22,125
+<i>Em Neu-Wodi,</i>
+<i>o poderoso Tarak se juntou a eles.</i>
+
+11
+00:01:22,208 --> 00:01:25,875
+<i>Nas minas de Daggus, a impetuosa Nêmesis.</i>
+
+12
+00:01:25,958 --> 00:01:29,875
+<i>No coliseu de Pollux,</i>
+<i>o obstinado general Titus.</i>
+
+13
+00:01:29,958 --> 00:01:35,000
+<i>E, no planeta Sharaan,</i>
+<i>Darrian Bloodaxe e tenente Milius.</i>
+
+14
+00:01:36,333 --> 00:01:39,125
+<i>Numa emboscada</i>
+<i>nas docas flutuantes de Gondival,</i>
+
+15
+00:01:39,208 --> 00:01:42,125
+<i>Kora venceu o almirante Noble,</i>
+
+16
+00:01:42,208 --> 00:01:45,458
+<i>deixando o corpo dele</i>
+<i>destroçado na costa rochosa.</i>
+
+17
+00:01:46,250 --> 00:01:50,541
+<i>Os guerreiros vitoriosos voltaram a Veldt</i>
+<i>para receber o pagamento,</i>
+
+18
+00:01:50,625 --> 00:01:53,416
+<i>com a ameaça do encouraçado já extinta.</i>
+
+19
+00:01:57,250 --> 00:01:59,041
+<i>Ou assim eles acreditavam.</i>
+
+20
+00:02:05,208 --> 00:02:06,583
+Comandante Cassius.
+
+21
+00:02:09,125 --> 00:02:11,500
+- Ele está vivo?
+- Está.
+
+22
+00:02:12,291 --> 00:02:13,291
+Por pouco.
+
+23
+00:02:14,208 --> 00:02:15,791
+Longe de se recuperar.
+
+24
+00:02:25,833 --> 00:02:28,041
+Ficou horas sem atividade cerebral.
+
+25
+00:02:29,750 --> 00:02:32,208
+Não sabemos a extensão dos danos.
+
+26
+00:02:33,750 --> 00:02:37,416
+Vamos saber o que sobrou dele
+quando o tirarmos da crisálida.
+
+27
+00:03:12,458 --> 00:03:14,000
+Vias aéreas desobstruídas.
+
+28
+00:03:14,083 --> 00:03:15,583
+Está respirando sozinho.
+
+29
+00:03:18,208 --> 00:03:19,041
+Almirante.
+
+30
+00:03:20,500 --> 00:03:21,875
+Almirante, sou eu.
+
+31
+00:03:24,750 --> 00:03:25,833
+Cassius?
+
+32
+00:03:26,333 --> 00:03:27,333
+Sim.
+
+33
+00:03:29,208 --> 00:03:30,458
+Onde estou?
+
+34
+00:03:31,375 --> 00:03:32,875
+Na sua nave, senhor.
+
+35
+00:03:33,916 --> 00:03:35,125
+A Olhar do Rei.
+
+36
+00:03:35,875 --> 00:03:40,208
+Ficamos orbitando Gondival,
+aguardando sua recuperação, senhor.
+
+37
+00:03:41,208 --> 00:03:45,083
+Graças aos deuses antigos,
+nossas preces foram atendidas.
+
+38
+00:03:46,041 --> 00:03:47,375
+Cassius, escute bem.
+
+39
+00:03:49,958 --> 00:03:51,083
+Ela está em Veldt.
+
+40
+00:03:53,291 --> 00:03:54,500
+Quem?
+
+41
+00:03:55,583 --> 00:03:56,916
+Quem está lá?
+
+42
+00:03:59,541 --> 00:04:01,125
+A Marcadora de Cicatrizes.
+
+43
+00:04:04,375 --> 00:04:05,791
+Ela está em Veldt.
+
+44
+00:04:07,375 --> 00:04:08,875
+Trace curso para Veldt.
+
+45
+00:04:09,666 --> 00:04:10,791
+Sim, almirante.
+
+46
+00:04:11,583 --> 00:04:12,583
+Assim será.
+
+47
+00:04:25,750 --> 00:04:31,000
+PARTE 2:
+A MARCADORA DE CICATRIZES
+
+48
+00:05:20,083 --> 00:05:21,083
+Sou Hagen.
+
+49
+00:05:22,250 --> 00:05:23,416
+Ele é Den.
+
+50
+00:05:23,500 --> 00:05:26,250
+É um prazer ter vocês
+na nossa humilde aldeia.
+
+51
+00:05:26,333 --> 00:05:28,208
+Devem querer descansar e comer.
+
+52
+00:05:28,791 --> 00:05:30,041
+E beber.
+
+53
+00:05:30,125 --> 00:05:33,750
+Temos comida e bebida para vocês
+na Casa Comunal.
+
+54
+00:05:34,375 --> 00:05:37,791
+Vamos. Vão ver como meu povo é receptivo.
+
+55
+00:05:41,375 --> 00:05:43,458
+Os urakis ficam no estábulo.
+
+56
+00:05:48,208 --> 00:05:49,250
+Eles voltaram.
+
+57
+00:05:50,916 --> 00:05:53,083
+Sei, e como eles são?
+
+58
+00:05:53,791 --> 00:05:56,541
+Fortes, como guerreiros.
+
+59
+00:05:57,125 --> 00:05:58,916
+- São quantos?
+- Seis.
+
+60
+00:05:59,000 --> 00:06:00,708
+- Com Kora e Gunnar.
+- Seis.
+
+61
+00:06:02,083 --> 00:06:05,083
+Então a força deles
+não vai fazer diferença, não é?
+
+62
+00:06:32,208 --> 00:06:33,250
+Comandante Cassius.
+
+63
+00:06:34,000 --> 00:06:37,041
+Soldado, está tudo nos conformes, certo?
+
+64
+00:06:37,125 --> 00:06:39,708
+<i>Sim, senhor. Tudo em ordem.</i>
+
+65
+00:06:39,791 --> 00:06:41,791
+<i>Não tem nada fora do comum?</i>
+
+66
+00:06:41,875 --> 00:06:43,750
+<i>- Não, senhor.</i>
+- Ótimo.
+
+67
+00:06:43,833 --> 00:06:49,625
+<i>A devida colheita deve ser finalizada</i>
+<i>até a nossa chegada em cinco dias.</i>
+
+68
+00:06:56,583 --> 00:06:58,416
+Cinco dias?
+
+69
+00:07:22,291 --> 00:07:23,208
+Venham.
+
+70
+00:07:25,750 --> 00:07:30,125
+Por favor, comam.
+Devem estar com muita fome.
+
+71
+00:07:30,208 --> 00:07:31,333
+Está bem.
+
+72
+00:07:31,416 --> 00:07:35,125
+Os aldeões prepararam
+uma fartura de comidas e bebidas
+
+73
+00:07:35,208 --> 00:07:39,583
+para demonstrar lealdade
+e gratidão a vocês.
+
+74
+00:07:40,708 --> 00:07:42,375
+Cadê todo mundo?
+
+75
+00:07:46,833 --> 00:07:48,000
+Como se sentiriam?
+
+76
+00:07:48,916 --> 00:07:53,791
+E se vocês não fossem capazes
+de proteger o próprio lar?
+
+77
+00:07:55,083 --> 00:07:58,291
+Tendo que pedir aos outros
+que se sacrifiquem.
+
+78
+00:07:59,041 --> 00:08:01,833
+Nossa presença
+não deve ser motivo de vergonha.
+
+79
+00:08:02,625 --> 00:08:06,083
+Engolir o orgulho e pedir ajuda
+é um ato de bravura.
+
+80
+00:08:07,791 --> 00:08:09,583
+- Obrigado.
+- Sim.
+
+81
+00:08:11,083 --> 00:08:14,750
+No fim das contas,
+ninguém vai precisar se sacrificar.
+
+82
+00:08:15,500 --> 00:08:17,125
+Não temos que nos defender.
+
+83
+00:08:20,000 --> 00:08:21,958
+- O almirante Noble morreu.
+- Quê?
+
+84
+00:08:22,041 --> 00:08:23,541
+- Morreu?
+- Sério?
+
+85
+00:08:24,791 --> 00:08:27,375
+Vai ter que repetir. Ele não acredita.
+
+86
+00:08:27,958 --> 00:08:28,875
+Ele morreu.
+
+87
+00:08:31,250 --> 00:08:34,250
+Não acha que eles vão voltar?
+
+88
+00:08:34,333 --> 00:08:35,291
+Não.
+
+89
+00:08:35,375 --> 00:08:38,375
+Quando um almirante morre,
+o protocolo imperial
+
+90
+00:08:39,083 --> 00:08:41,333
+é o retorno imediato ao Mundo-Mãe.
+
+91
+00:08:42,291 --> 00:08:44,750
+Então somos mais gratos ainda…
+
+92
+00:08:44,833 --> 00:08:45,666
+Está errada.
+
+93
+00:08:46,708 --> 00:08:47,833
+Fui contatado.
+
+94
+00:08:50,541 --> 00:08:51,583
+Chegam em 5 dias.
+
+95
+00:08:55,916 --> 00:08:57,083
+É verdade?
+
+96
+00:08:57,166 --> 00:08:58,208
+- Cinco?
+- Sim.
+
+97
+00:08:58,291 --> 00:09:01,083
+Mas disse que o almirante Noble morreu.
+
+98
+00:09:01,166 --> 00:09:04,666
+Eu o matei.
+Ele se espatifou nas rochas. Morreu.
+
+99
+00:09:04,750 --> 00:09:08,916
+É contra o protocolo uma nave vir
+sem um almirante no comando, certo?
+
+100
+00:09:09,000 --> 00:09:10,250
+É verdade,
+
+101
+00:09:10,833 --> 00:09:14,166
+mas nem a morte impede
+certos objetivos do Mundo-Mãe.
+
+102
+00:09:14,875 --> 00:09:17,916
+Eles devem estar
+muito necessitados de grãos.
+
+103
+00:09:19,791 --> 00:09:21,583
+- Hagen?
+- Diga.
+
+104
+00:09:21,666 --> 00:09:24,333
+Chame os aldeões. Vou falar com eles.
+
+105
+00:09:24,416 --> 00:09:25,333
+Está bem.
+
+106
+00:09:51,041 --> 00:09:53,625
+Dias sombrios nos aguardam.
+
+107
+00:09:54,750 --> 00:09:56,041
+Quando chegar a hora,
+
+108
+00:09:57,708 --> 00:09:59,958
+talvez tenhamos que ficar lado a lado
+
+109
+00:10:00,583 --> 00:10:02,625
+em batalha, como irmãos.
+
+110
+00:10:04,750 --> 00:10:06,291
+Para termos êxito,
+
+111
+00:10:06,375 --> 00:10:08,458
+é preciso ter confiança mútua.
+
+112
+00:10:10,166 --> 00:10:13,000
+Logo vamos ensinar como se luta,
+
+113
+00:10:13,875 --> 00:10:17,541
+mas, primeiro,
+devem nos mostrar a força de vocês.
+
+114
+00:10:17,625 --> 00:10:19,666
+A lida no campo.
+
+115
+00:10:22,750 --> 00:10:24,500
+Se não agirmos rápido,
+
+116
+00:10:25,500 --> 00:10:27,333
+a destruição da sua aldeia
+
+117
+00:10:28,041 --> 00:10:29,500
+é quase garantida.
+
+118
+00:10:30,208 --> 00:10:33,541
+Quanto tempo leva para fazer a colheita?
+
+119
+00:10:33,625 --> 00:10:35,375
+Meio ciclo ao redor de Mara.
+
+120
+00:10:36,000 --> 00:10:39,000
+Não, deve ser feita em três dias.
+
+121
+00:10:39,083 --> 00:10:40,583
+- O quê?
+- Impossível.
+
+122
+00:10:42,333 --> 00:10:45,291
+Precisamos de todos os homens
+e mulheres aptos.
+
+123
+00:10:45,375 --> 00:10:49,250
+Os grãos são nossa arma mais poderosa.
+
+124
+00:10:50,333 --> 00:10:51,458
+Sem isso,
+
+125
+00:10:52,083 --> 00:10:55,500
+eles podem muito bem nos dizimar
+a partir da órbita.
+
+126
+00:10:56,166 --> 00:10:57,916
+Em posse dos grãos,
+
+127
+00:10:59,166 --> 00:11:02,791
+podemos usá-los
+como moeda de troca e escudo.
+
+128
+00:11:05,291 --> 00:11:07,083
+Descansem bem.
+
+129
+00:11:07,166 --> 00:11:09,166
+O trabalho começa ao amanhecer.
+
+130
+00:11:09,958 --> 00:11:11,250
+Vocês ouviram.
+
+131
+00:11:12,166 --> 00:11:13,458
+Ao amanhecer.
+
+132
+00:11:23,583 --> 00:11:25,583
+Eles vão confiar uns nos outros?
+
+133
+00:11:27,375 --> 00:11:28,458
+Estão assustados
+
+134
+00:11:29,833 --> 00:11:33,875
+com os forasteiros,
+a batalha iminente e a ameaça à vida.
+
+135
+00:11:34,875 --> 00:11:36,000
+Confiar? Não sei.
+
+136
+00:11:37,166 --> 00:11:41,125
+Só espero que tenham coragem de lutar,
+se chegar a isso.
+
+137
+00:11:41,208 --> 00:11:43,625
+Eu não imaginava como seria lutar.
+
+138
+00:11:45,041 --> 00:11:46,416
+O pavor que me daria.
+
+139
+00:11:49,416 --> 00:11:51,166
+Você tem medo de morrer.
+
+140
+00:11:51,250 --> 00:11:53,458
+É normal. Todos sentem isso.
+
+141
+00:11:55,041 --> 00:11:57,291
+Naquela hora, nem pensei na morte.
+
+142
+00:11:58,583 --> 00:12:02,250
+Antes, eu teria dito
+que aquilo me assustaria.
+
+143
+00:12:03,500 --> 00:12:05,041
+Fiquei mesmo com medo.
+
+144
+00:12:07,375 --> 00:12:09,500
+Nunca senti tanto medo na vida.
+
+145
+00:12:12,083 --> 00:12:13,875
+Do que sentiu tanto medo
+
+146
+00:12:14,833 --> 00:12:16,333
+se não foi da morte?
+
+147
+00:12:20,291 --> 00:12:21,291
+Foi de você.
+
+148
+00:12:25,125 --> 00:12:26,333
+De perder você.
+
+149
+00:12:51,041 --> 00:12:52,166
+O que Noble disse,
+
+150
+00:12:53,750 --> 00:12:57,666
+de você ser
+a criminosa mais procurada do Universo…
+
+151
+00:13:01,916 --> 00:13:05,166
+Ninguém se torna isso só por fugir.
+
+152
+00:13:12,791 --> 00:13:15,958
+Lembra que contei
+que fui criada por Balisarius?
+
+153
+00:13:17,583 --> 00:13:19,166
+O regente do Imperium.
+
+154
+00:13:22,125 --> 00:13:24,791
+E que eu era a guarda-costas
+da princesa Issa.
+
+155
+00:13:25,291 --> 00:13:26,125
+Eu lembro.
+
+156
+00:13:27,333 --> 00:13:29,500
+E foi uma guerreira condecorada.
+
+157
+00:13:30,875 --> 00:13:32,750
+Amiga da família real.
+
+158
+00:13:34,416 --> 00:13:35,791
+O que foi feito deles?
+
+159
+00:13:38,875 --> 00:13:41,166
+Com a influência curativa da filha,
+
+160
+00:13:41,250 --> 00:13:44,333
+o rei passou a ver muitas coisas
+com outros olhos.
+
+161
+00:13:52,208 --> 00:13:56,083
+<i>Era a cerimônia de entrega</i>
+<i>do que seria o último encouraçado.</i>
+
+162
+00:13:56,875 --> 00:13:59,000
+<i>Um fim simbólico da era de expansão.</i>
+
+163
+00:14:00,791 --> 00:14:04,708
+<i>Era tradição o rei batizar toda nave,</i>
+
+164
+00:14:05,750 --> 00:14:07,208
+<i>mas não daquela vez.</i>
+
+165
+00:14:10,791 --> 00:14:14,041
+<i>Seria o primeiro dever real da princesa,</i>
+
+166
+00:14:14,666 --> 00:14:16,250
+<i>o primeiro ato oficial.</i>
+
+167
+00:14:21,333 --> 00:14:24,833
+<i>A nave seria nomeada Pacificadora</i>
+<i>e teria o selo real dela.</i>
+
+168
+00:14:29,958 --> 00:14:31,500
+<i>Não se engane.</i>
+
+169
+00:14:32,000 --> 00:14:34,958
+<i>Eu era a filha leal do meu pai adotivo.</i>
+
+170
+00:14:36,041 --> 00:14:39,208
+<i>Eu nunca o trairia nem desafiaria.</i>
+
+171
+00:14:42,666 --> 00:14:45,208
+<i>Ele me disse</i>
+<i>que a princesa deveria morrer.</i>
+
+172
+00:14:46,083 --> 00:14:47,625
+<i>Então ela morreria.</i>
+
+173
+00:14:58,125 --> 00:15:01,166
+<i>Meu pai disse que não ficaria parado</i>
+
+174
+00:15:01,250 --> 00:15:04,666
+<i>vendo aquela criança</i>
+<i>desmantelar a máquina de guerra</i>
+
+175
+00:15:04,750 --> 00:15:07,375
+<i>pela qual tanto sacrificamos.</i>
+
+176
+00:15:09,500 --> 00:15:13,750
+<i>Eu tinha fé de que Balisarius</i>
+<i>daria proteção a mim</i>
+
+177
+00:15:13,833 --> 00:15:15,875
+<i>e ao império que ele amava.</i>
+
+178
+00:15:16,958 --> 00:15:18,166
+Atenção!
+
+179
+00:15:40,083 --> 00:15:41,083
+Estranho.
+
+180
+00:15:45,875 --> 00:15:46,833
+Tem algo errado.
+
+181
+00:15:48,750 --> 00:15:49,625
+Balisarius.
+
+182
+00:15:50,875 --> 00:15:54,208
+Onde os Kali estão?
+Eles não acenderam as fornalhas?
+
+183
+00:15:56,375 --> 00:15:59,291
+Balisarius, eu falei com você.
+
+184
+00:16:00,500 --> 00:16:01,500
+Responda já!
+
+185
+00:16:28,250 --> 00:16:30,833
+Issa, fuja! Issa!
+
+186
+00:16:31,666 --> 00:16:33,208
+Seu canalha!
+
+187
+00:16:35,333 --> 00:16:36,458
+Não!
+
+188
+00:16:58,541 --> 00:16:59,375
+Atire.
+
+189
+00:16:59,958 --> 00:17:01,583
+O que está esperando?
+
+190
+00:17:03,875 --> 00:17:06,000
+O que está esperando? Atire!
+
+191
+00:17:07,333 --> 00:17:08,208
+- Atire.
+- Não.
+
+192
+00:17:08,875 --> 00:17:11,333
+- Não.
+- Atire e mate a menina.
+
+193
+00:17:13,208 --> 00:17:15,625
+- Mate!
+- Não!
+
+194
+00:17:19,916 --> 00:17:21,041
+Eu te perdoo.
+
+195
+00:17:23,250 --> 00:17:24,250
+Não perdoe.
+
+196
+00:18:02,041 --> 00:18:03,541
+O que você fez?
+
+197
+00:18:06,750 --> 00:18:07,875
+O que você fez?
+
+198
+00:18:09,541 --> 00:18:10,833
+Prendam-na!
+
+199
+00:18:13,291 --> 00:18:15,000
+Aí está ela, senhores.
+
+200
+00:18:15,625 --> 00:18:17,833
+A assassina da família real.
+
+201
+00:18:19,375 --> 00:18:20,833
+Uma forasteira.
+
+202
+00:18:23,291 --> 00:18:26,166
+Um câncer de impurezas étnicas.
+
+203
+00:18:27,041 --> 00:18:28,458
+Assassina!
+
+204
+00:18:28,541 --> 00:18:30,666
+- Assassina!
+- Assassina!
+
+205
+00:18:30,750 --> 00:18:33,125
+- Assassina!
+- Facínora!
+
+206
+00:18:33,208 --> 00:18:35,916
+- Traidora!
+- Cobra!
+
+207
+00:18:36,000 --> 00:18:37,083
+Escória!
+
+208
+00:19:09,541 --> 00:19:11,291
+<i>Abri caminho até a nave.</i>
+
+209
+00:19:17,666 --> 00:19:20,541
+E vivo como fora da lei desde então.
+
+210
+00:19:22,708 --> 00:19:26,208
+Pensei em deixar me matarem ou me render.
+
+211
+00:19:30,500 --> 00:19:33,208
+Mas as últimas palavras da criança…
+
+212
+00:19:35,000 --> 00:19:36,333
+O perdão dela.
+
+213
+00:19:37,125 --> 00:19:40,041
+Achei que eu só poderia honrá-la
+se fugisse…
+
+214
+00:19:42,291 --> 00:19:43,916
+e tentasse ser, sei lá…
+
+215
+00:19:47,291 --> 00:19:48,500
+mais que uma arma.
+
+216
+00:19:53,208 --> 00:19:54,458
+Mais que uma arma.
+
+217
+00:19:56,750 --> 00:19:58,416
+É o que todos queremos ser.
+
+218
+00:20:03,583 --> 00:20:04,583
+É o que você é.
+
+219
+00:20:13,083 --> 00:20:13,916
+Bom dia!
+
+220
+00:20:14,000 --> 00:20:15,666
+Bom dia!
+
+221
+00:20:17,500 --> 00:20:20,291
+É hora de despertar. Vamos acordar!
+
+222
+00:20:20,375 --> 00:20:21,791
+Todos de pé!
+
+223
+00:20:22,708 --> 00:20:24,708
+Vamos trabalhar.
+
+224
+00:20:26,500 --> 00:20:29,458
+Vamos, seus preguiçosos! Levantando!
+
+225
+00:20:29,541 --> 00:20:31,375
+Não temos muito tempo!
+
+226
+00:22:18,708 --> 00:22:21,125
+Comandante, é o médico-chefe na linha.
+
+227
+00:22:22,083 --> 00:22:23,208
+Pode passar.
+
+228
+00:22:24,916 --> 00:22:27,541
+<i>- Me solte!</i>
+<i>- Comandante, é melhor vir aqui.</i>
+
+229
+00:22:27,625 --> 00:22:30,500
+<i>Isso é traição! Eu comando a nave!</i>
+
+230
+00:22:30,583 --> 00:22:34,500
+<i>Pelos deuses antigos,</i>
+<i>farei todos irem para a corte marcial!</i>
+
+231
+00:22:34,583 --> 00:22:37,875
+<i>Eu juro! Todos aqui vão morrer!</i>
+<i>Não preciso de vocês!</i>
+
+232
+00:22:37,958 --> 00:22:40,291
+<i>- Precisa vir agora.</i>
+- Estou indo.
+
+233
+00:22:40,375 --> 00:22:42,708
+<i>Melhor ainda, eu que vou matar vocês!</i>
+
+234
+00:22:43,375 --> 00:22:45,208
+<i>O senhor ainda não está bem.</i>
+
+235
+00:22:47,000 --> 00:22:50,000
+Ainda sou o comandante desta nave!
+
+236
+00:22:50,083 --> 00:22:52,208
+Por que estão aí parados me olhando?
+
+237
+00:22:52,291 --> 00:22:53,291
+Covardes!
+
+238
+00:22:54,166 --> 00:22:56,583
+- É traição!
+- Bem-vindo de volta, senhor.
+
+239
+00:22:57,333 --> 00:22:59,166
+Pronto para voltar ao comando?
+
+240
+00:22:59,250 --> 00:23:02,458
+É claro que sim.
+Mande esses idiotas me soltarem.
+
+241
+00:23:02,541 --> 00:23:04,708
+Senhor, como eu já disse,
+
+242
+00:23:05,208 --> 00:23:08,125
+temos protocolos
+antes de liberá-lo para comandar.
+
+243
+00:23:08,208 --> 00:23:12,916
+Testes a serem feitos
+para ver se está mental e fisicamente…
+
+244
+00:23:17,125 --> 00:23:19,208
+Vou ajudar com a sua avaliação.
+
+245
+00:23:31,541 --> 00:23:32,458
+Desconectem!
+
+246
+00:23:41,208 --> 00:23:42,416
+Veldt está longe?
+
+247
+00:23:44,208 --> 00:23:45,375
+Está a alguns dias.
+
+248
+00:23:48,125 --> 00:23:54,041
+Almirante, perdão pela cicatriz deixada
+pela equipe médica incompetente.
+
+249
+00:23:54,125 --> 00:23:56,000
+Tem como ser removida.
+
+250
+00:23:58,291 --> 00:23:59,208
+Não.
+
+251
+00:24:01,083 --> 00:24:02,125
+Deixe assim.
+
+252
+00:24:03,250 --> 00:24:04,250
+Ela me deu isso.
+
+253
+00:24:06,541 --> 00:24:08,208
+Vou entregá-la a Balisarius,
+
+254
+00:24:08,291 --> 00:24:11,125
+e o corpo dela será exibido
+na rotunda do Senado.
+
+255
+00:24:12,583 --> 00:24:14,125
+Eu mostrarei meu peito,
+
+256
+00:24:15,250 --> 00:24:16,708
+e isso será um símbolo
+
+257
+00:24:16,791 --> 00:24:20,125
+de que eu trouxe
+a Marcadora de Cicatrizes à justiça.
+
+258
+00:24:20,958 --> 00:24:23,916
+O povo vai me considerar um salvador.
+
+259
+00:27:21,000 --> 00:27:22,583
+Como está a colheita?
+
+260
+00:27:23,291 --> 00:27:25,375
+Os aldeões estão reclamando?
+
+261
+00:27:25,458 --> 00:27:26,458
+<i>Não, senhor.</i>
+
+262
+00:27:27,458 --> 00:27:29,125
+<i>Tudo dentro do programado.</i>
+
+263
+00:27:29,208 --> 00:27:32,875
+Eu não vi Faunus nem Marcus
+durante seus relatórios.
+
+264
+00:27:33,583 --> 00:27:35,833
+Eles estão monitorando os aldeões.
+
+265
+00:27:37,000 --> 00:27:39,416
+Para darem um gás no serviço.
+
+266
+00:27:40,416 --> 00:27:41,291
+Ótimo.
+
+267
+00:27:41,916 --> 00:27:43,583
+<i>O trabalho é ininterrupto.</i>
+
+268
+00:27:43,666 --> 00:27:47,166
+<i>Os grãos vão ser moídos em farinha</i>
+<i>até a chegada de vocês.</i>
+
+269
+00:27:47,708 --> 00:27:48,958
+Excelente, soldado.
+
+270
+00:27:49,041 --> 00:27:51,666
+Se os aldeões cumprirem a parte deles,
+
+271
+00:27:52,166 --> 00:27:54,041
+talvez recebam clemência.
+
+272
+00:27:54,125 --> 00:27:57,375
+Esses vira-latas
+só merecem nosso desprezo.
+
+273
+00:27:57,458 --> 00:27:58,833
+É mesmo?
+
+274
+00:28:00,833 --> 00:28:01,750
+Veremos…
+
+275
+00:28:03,083 --> 00:28:04,500
+com a tarefa concluída.
+
+276
+00:28:06,750 --> 00:28:08,083
+Pelo rei morto.
+
+277
+00:28:08,708 --> 00:28:10,000
+<i>Pelo rei morto.</i>
+
+278
+00:28:18,333 --> 00:28:22,250
+É óbvio que Faunus, Marcus
+e o resto dos soldados morreram.
+
+279
+00:28:23,583 --> 00:28:25,125
+A Marcadora está lá.
+
+280
+00:28:28,166 --> 00:28:30,750
+Nosso jovem soldado escolheu um lado.
+
+281
+00:29:39,875 --> 00:29:41,458
+Pessoal, eu quero…
+
+282
+00:29:42,333 --> 00:29:44,833
+Quero dar boas-vindas aos novos amigos.
+
+283
+00:29:46,583 --> 00:29:49,166
+Fiz umas lembrancinhas para vocês.
+
+284
+00:29:49,750 --> 00:29:53,958
+Sei que vieram de lugares
+mais ricos e sofisticados do que aqui,
+
+285
+00:29:54,041 --> 00:29:57,875
+então espero que a simplicidade
+dos presentes não ofenda vocês.
+
+286
+00:29:57,958 --> 00:30:00,041
+Mas eu os fiz com gratidão.
+
+287
+00:30:02,041 --> 00:30:04,833
+Quando vi vocês chegando à aldeia,
+
+288
+00:30:05,750 --> 00:30:09,333
+o general Titus parecia uma montanha.
+
+289
+00:30:10,166 --> 00:30:12,666
+Forte e inabalável.
+
+290
+00:30:15,208 --> 00:30:16,125
+Obrigado.
+
+291
+00:30:21,791 --> 00:30:22,916
+Tarak.
+
+292
+00:30:24,083 --> 00:30:26,625
+Seu espírito é indomável,
+
+293
+00:30:27,500 --> 00:30:29,916
+mas sua nobreza é inegável.
+
+294
+00:30:30,958 --> 00:30:32,291
+Como o alce-da-neve.
+
+295
+00:30:33,875 --> 00:30:35,708
+Obrigado.
+
+296
+00:30:42,875 --> 00:30:44,000
+Jovem Milius,
+
+297
+00:30:45,125 --> 00:30:49,083
+que brilha como o sol no nosso rosto,
+
+298
+00:30:49,166 --> 00:30:51,208
+nos aquecendo e acalentando,
+
+299
+00:30:52,041 --> 00:30:54,208
+de forma firme e verdadeira.
+
+300
+00:30:55,541 --> 00:30:56,541
+Eu agradeço.
+
+301
+00:30:58,708 --> 00:30:59,625
+Nêmesis.
+
+302
+00:31:01,875 --> 00:31:04,500
+Bravia como uma tempestade
+e seus relâmpagos,
+
+303
+00:31:05,166 --> 00:31:07,000
+mas com sua chuva revigorante.
+
+304
+00:31:08,625 --> 00:31:10,125
+Essa é a fonte da vida.
+
+305
+00:31:11,458 --> 00:31:13,583
+A tempestade é a mãe de todos nós.
+
+306
+00:31:18,666 --> 00:31:19,500
+Obrigada.
+
+307
+00:31:25,458 --> 00:31:26,291
+Gunnar.
+
+308
+00:31:28,500 --> 00:31:30,166
+Você é o nosso coração.
+
+309
+00:31:30,916 --> 00:31:32,250
+Você nos dá esperança.
+
+310
+00:31:40,250 --> 00:31:41,291
+É lindo.
+
+311
+00:31:42,125 --> 00:31:42,958
+Obrigado.
+
+312
+00:31:48,166 --> 00:31:49,166
+Veja isto.
+
+313
+00:31:52,541 --> 00:31:53,791
+E Kora.
+
+314
+00:31:57,500 --> 00:32:00,875
+Você é nosso lobo guardião
+com os dentes à mostra.
+
+315
+00:32:02,041 --> 00:32:04,625
+Você se pôs entre nós e a aniquilação.
+
+316
+00:32:06,541 --> 00:32:09,333
+É a força de todos nós juntos.
+
+317
+00:32:23,041 --> 00:32:24,041
+Vamos comer!
+
+318
+00:32:59,791 --> 00:33:00,791
+Você está bem?
+
+319
+00:33:04,041 --> 00:33:05,625
+- Tudo bem?
+- Tudo.
+
+320
+00:33:06,333 --> 00:33:07,250
+Saúde.
+
+321
+00:33:23,333 --> 00:33:26,375
+- Den, faça aquilo de novo!
+- Prontas?
+
+322
+00:33:28,541 --> 00:33:29,458
+É isso aí!
+
+323
+00:35:49,708 --> 00:35:50,625
+Certo.
+
+324
+00:35:51,166 --> 00:35:54,125
+Hoje começamos a preparar nossa defesa.
+
+325
+00:35:54,208 --> 00:35:57,291
+<i>Primeiro, vamos levar os grãos</i>
+<i>para a aldeia,</i>
+
+326
+00:35:57,375 --> 00:36:01,791
+<i>para que eles não possam atirar da órbita</i>
+<i>sem destruir a safra.</i>
+
+327
+00:36:05,791 --> 00:36:10,375
+<i>As armas deixadas pelo Imperium</i>
+<i>vão nos ajudar a manter posição.</i>
+
+328
+00:36:10,458 --> 00:36:12,541
+Detonadores potentes e perfurantes.
+
+329
+00:36:13,541 --> 00:36:15,625
+- Tem comunicadores.
+- Ótimo.
+
+330
+00:36:17,458 --> 00:36:20,291
+É difícil tirar o sangue,
+mas podemos tentar.
+
+331
+00:36:20,916 --> 00:36:23,833
+Não, está perfeito. Deixe assim.
+Tem mais disso?
+
+332
+00:36:24,541 --> 00:36:25,458
+Claro.
+
+333
+00:36:27,291 --> 00:36:30,083
+<i>Juntem e contabilizem cada rifle de caça.</i>
+
+334
+00:36:31,000 --> 00:36:32,208
+<i>Cada faca.</i>
+
+335
+00:36:32,875 --> 00:36:35,375
+<i>Cada munição existente na aldeia.</i>
+
+336
+00:36:50,916 --> 00:36:54,916
+<i>Vamos cavar trincheiras</i>
+<i>para termos o elemento-surpresa.</i>
+
+337
+00:36:55,000 --> 00:36:55,916
+Vamos lá.
+
+338
+00:37:01,791 --> 00:37:03,583
+Astrid, pode atirar.
+
+339
+00:37:06,083 --> 00:37:07,000
+Espere.
+
+340
+00:37:10,416 --> 00:37:11,416
+Cotovelo junto.
+
+341
+00:37:12,208 --> 00:37:13,041
+Olhos abertos.
+
+342
+00:37:17,541 --> 00:37:22,416
+Certo, hoje vamos aprender o básico
+de ataque e defesa.
+
+343
+00:37:22,500 --> 00:37:25,291
+As ferramentas agrícolas viraram armas.
+
+344
+00:37:25,375 --> 00:37:27,333
+Então o que vamos fazer é…
+
+345
+00:37:28,416 --> 00:37:29,250
+isso.
+
+346
+00:37:29,958 --> 00:37:30,875
+Vai.
+
+347
+00:37:41,208 --> 00:37:42,458
+Como um profissional.
+
+348
+00:37:49,041 --> 00:37:49,875
+Ótimo!
+
+349
+00:37:50,625 --> 00:37:51,458
+Muito bom.
+
+350
+00:37:52,250 --> 00:37:53,500
+Essa tem o dom.
+
+351
+00:38:15,916 --> 00:38:16,750
+Pronto.
+
+352
+00:38:18,125 --> 00:38:18,958
+Vai!
+
+353
+00:38:27,166 --> 00:38:28,250
+Descendo.
+
+354
+00:38:33,791 --> 00:38:35,375
+É a nave da Kora.
+
+355
+00:38:36,416 --> 00:38:38,625
+Estava em mau estado quando a achei.
+
+356
+00:38:39,666 --> 00:38:40,875
+Já faz tempo?
+
+357
+00:38:40,958 --> 00:38:43,291
+- Duas temporadas.
+- Vamos.
+
+358
+00:38:45,708 --> 00:38:50,000
+<i>A nave em que Kora chegou</i>
+<i>ainda está nas montanhas a leste.</i>
+
+359
+00:38:52,666 --> 00:38:56,583
+<i>Com esforço e trabalho em equipe,</i>
+<i>podemos tirá-la de lá.</i>
+
+360
+00:38:56,666 --> 00:38:58,333
+<i>É um trunfo poderoso.</i>
+
+361
+00:39:29,083 --> 00:39:30,916
+Nossa! Ainda funciona!
+
+362
+00:39:38,291 --> 00:39:39,333
+Segure firme.
+
+363
+00:40:27,791 --> 00:40:29,958
+- Quantos?
+- São 15 rifles.
+
+364
+00:40:30,041 --> 00:40:32,416
+Não importa quantos temos.
+
+365
+00:40:32,500 --> 00:40:34,125
+Quem sabe atirar?
+
+366
+00:40:34,208 --> 00:40:37,000
+- Ivar não pode ter uma arma.
+- Eu concordo.
+
+367
+00:40:37,083 --> 00:40:38,458
+Vamos afiar as lâminas.
+
+368
+00:40:38,541 --> 00:40:42,291
+- Só temos que ver o que…
+- Escutem.
+
+369
+00:40:47,041 --> 00:40:49,625
+Eu nunca fui de fazer confissões.
+
+370
+00:40:54,500 --> 00:40:57,375
+Já sabemos o que cada um deve fazer.
+
+371
+00:40:59,583 --> 00:41:03,875
+Estão aqui porque eu quero
+que saibam bem com quem vão lutar.
+
+372
+00:41:05,250 --> 00:41:08,625
+Todos devem compartilhar a verdade.
+
+373
+00:41:10,458 --> 00:41:11,625
+Eu primeiro.
+
+374
+00:41:16,833 --> 00:41:17,791
+Sarawu.
+
+375
+00:41:22,250 --> 00:41:25,916
+<i>O regente Balisarius me enviou</i>
+<i>como demonstração de força</i>
+
+376
+00:41:26,000 --> 00:41:29,125
+<i>para pairar com a nave</i>
+<i>sobre o Parlamento de Sarawu,</i>
+
+377
+00:41:29,791 --> 00:41:34,500
+<i>deixando óbvio que não deveriam votar</i>
+<i>na opção de independência do Reino.</i>
+
+378
+00:41:35,916 --> 00:41:39,541
+<i>Só que aquele povo corajoso e desafiador</i>
+<i>escolheu a liberdade.</i>
+
+379
+00:41:39,625 --> 00:41:43,291
+<i>Em resposta,</i>
+<i>recebi ordens de abrir fogo no Capitólio.</i>
+
+380
+00:41:45,625 --> 00:41:48,791
+<i>Eu me recusei, e minha nave foi abatida.</i>
+
+381
+00:41:50,500 --> 00:41:51,750
+<i>Saindo dos destroços,</i>
+
+382
+00:41:51,833 --> 00:41:55,583
+<i>lutamos contra as forças do Mundo-Mãe</i>
+<i>até as armas esvaziarem.</i>
+
+383
+00:41:57,041 --> 00:41:59,708
+<i>Meus soldados lutariam comigo até a morte.</i>
+
+384
+00:42:00,666 --> 00:42:02,500
+<i>Então eu fiz um acordo.</i>
+
+385
+00:42:02,583 --> 00:42:05,958
+<i>A vida deles em troca da minha rendição.</i>
+
+386
+00:42:07,166 --> 00:42:10,041
+<i>Implorei ao regente</i>
+<i>que poupasse todos eles.</i>
+
+387
+00:42:11,000 --> 00:42:13,833
+<i>Mas o regente Balisarius</i>
+<i>não tem misericórdia.</i>
+
+388
+00:42:21,041 --> 00:42:25,333
+<i>Para me punir, meus soldados</i>
+<i>foram executados na minha frente.</i>
+
+389
+00:42:26,500 --> 00:42:30,375
+<i>A decisão de desafiar Balisarius</i>
+<i>foi só minha.</i>
+
+390
+00:42:31,541 --> 00:42:36,541
+<i>Eu penso todo dia</i>
+<i>naqueles homens que morreram por mim.</i>
+
+391
+00:42:37,416 --> 00:42:41,916
+<i>Minha rendição traiu a coragem deles</i>
+<i>e os condenou àquele destino.</i>
+
+392
+00:42:43,791 --> 00:42:45,083
+<i>Nunca mais.</i>
+
+393
+00:42:46,500 --> 00:42:48,625
+<i>Nunca vou me render.</i>
+
+394
+00:42:49,500 --> 00:42:53,125
+Saibam disso hoje
+antes de escolherem me seguir amanhã.
+
+395
+00:43:04,000 --> 00:43:07,833
+Eu nunca lutei em uma batalha
+como essa que vai acontecer,
+
+396
+00:43:09,333 --> 00:43:12,250
+mas passei a infância num lugar como este.
+
+397
+00:43:13,541 --> 00:43:16,208
+Quando as naves surgiram
+no céu do meu mundo,
+
+398
+00:43:16,291 --> 00:43:19,291
+esperei que os anciões
+nos dissessem como reagir.
+
+399
+00:43:20,416 --> 00:43:21,791
+Eles se acovardaram.
+
+400
+00:43:21,875 --> 00:43:25,625
+Foram submissos e entregaram tudo
+por puro medo de lutar.
+
+401
+00:43:26,250 --> 00:43:30,125
+Disseram: "Como podemos ir contra
+o poder do Mundo-Mãe?"
+
+402
+00:43:30,750 --> 00:43:34,791
+Quem era muito fraco ou velho
+para trabalhar foi morto.
+
+403
+00:43:36,750 --> 00:43:40,958
+<i>O resto de nós foi levado</i>
+<i>para campos de trabalho no Universo todo.</i>
+
+404
+00:43:41,916 --> 00:43:44,125
+<i>Famílias destruídas.</i>
+
+405
+00:43:44,791 --> 00:43:47,125
+<i>Meu povo parecia nunca ter existido.</i>
+
+406
+00:44:37,791 --> 00:44:40,458
+<i>Meu campo foi libertado pela Resistência.</i>
+
+407
+00:44:42,500 --> 00:44:45,791
+<i>Conheci uma nova família</i>
+<i>que me mostrou outra vida.</i>
+
+408
+00:44:47,041 --> 00:44:48,500
+<i>Quando chegar a hora,</i>
+
+409
+00:44:50,333 --> 00:44:53,416
+<i>eu vou dar minha vida</i>
+<i>para proteger esta aldeia.</i>
+
+410
+00:44:54,750 --> 00:44:57,541
+Lutar e morrer
+por um lugar para chamar de lar.
+
+411
+00:44:59,125 --> 00:45:02,541
+Existe um fim de maior honra que esse?
+
+412
+00:45:06,875 --> 00:45:08,833
+Eu já tive uma vida.
+
+413
+00:45:12,208 --> 00:45:13,500
+Faz muito tempo.
+
+414
+00:45:15,041 --> 00:45:16,166
+É o que parece.
+
+415
+00:45:28,500 --> 00:45:30,416
+<i>Éramos uma vila de pescadores.</i>
+
+416
+00:45:32,041 --> 00:45:37,333
+<i>As tropas do Imperium</i>
+<i>massacraram tudo e todos.</i>
+
+417
+00:45:48,875 --> 00:45:50,916
+<i>Nosso povo era pacífico.</i>
+
+418
+00:45:53,083 --> 00:45:55,041
+<i>Mas nem sempre foi assim.</i>
+
+419
+00:45:58,208 --> 00:46:00,083
+<i>Num passado distante…</i>
+
+420
+00:46:03,125 --> 00:46:04,916
+<i>éramos um povo de guerra.</i>
+
+421
+00:46:07,375 --> 00:46:09,541
+<i>Eu nunca tinha matado</i>
+
+422
+00:46:11,333 --> 00:46:13,125
+<i>nem derramado sangue,</i>
+
+423
+00:46:14,500 --> 00:46:16,083
+<i>até derramar o meu.</i>
+
+424
+00:46:27,583 --> 00:46:30,250
+<i>Minha dor se tornou fúria.</i>
+
+425
+00:46:33,000 --> 00:46:37,000
+<i>E minha fúria se tornou vingança.</i>
+
+426
+00:46:38,416 --> 00:46:43,750
+<i>A sede de sangue dos meus antepassados</i>
+<i>ainda vivia naquelas manoplas antigas.</i>
+
+427
+00:46:44,458 --> 00:46:46,791
+<i>Meu sangue as despertou.</i>
+
+428
+00:46:47,791 --> 00:46:50,458
+<i>Elas me mostraram como lutar.</i>
+
+429
+00:46:51,375 --> 00:46:52,958
+<i>E eu renasci.</i>
+
+430
+00:46:54,250 --> 00:46:56,166
+<i>Mas, desde então,</i>
+
+431
+00:46:56,958 --> 00:46:59,166
+<i>eu sou movida a vingança.</i>
+
+432
+00:47:01,750 --> 00:47:02,750
+E sim…
+
+433
+00:47:05,041 --> 00:47:07,000
+Sim, vou matar todos eles.
+
+434
+00:47:17,416 --> 00:47:19,541
+Ninguém escolhe os pais que tem.
+
+435
+00:47:22,916 --> 00:47:26,291
+Os meus eram um rei e uma rainha.
+
+436
+00:47:28,375 --> 00:47:30,416
+<i>Meu pai, o rei,</i>
+
+437
+00:47:30,500 --> 00:47:36,166
+<i>insistiu em ir apresentar nossos termos</i>
+<i>aos exércitos do Mundo-Mãe.</i>
+
+438
+00:47:37,041 --> 00:47:41,458
+<i>A resposta deles foi devolver o corpo dele</i>
+<i>com a promessa de invasão.</i>
+
+439
+00:47:43,500 --> 00:47:45,166
+<i>Minha mãe me disse:</i>
+
+440
+00:47:45,250 --> 00:47:47,291
+<i>"Um menino só se torna homem</i>
+
+441
+00:47:47,958 --> 00:47:49,958
+<i>quando o pai morre.</i>
+
+442
+00:47:50,041 --> 00:47:52,208
+<i>Um príncipe se torna rei."</i>
+
+443
+00:47:54,291 --> 00:47:56,000
+<i>Foi a última vez que chorei.</i>
+
+444
+00:48:02,791 --> 00:48:07,041
+<i>Logo depois,</i>
+<i>as naves deles escureceram o nosso céu.</i>
+
+445
+00:48:14,666 --> 00:48:18,208
+<i>Minha mãe, em nome da honra,</i>
+<i>se recusou a fugir.</i>
+
+446
+00:48:18,875 --> 00:48:22,208
+<i>Eu queria ficar e protegê-la,</i>
+
+447
+00:48:23,041 --> 00:48:27,000
+<i>mas a rainha precisava preservar</i>
+<i>a linhagem e o trono.</i>
+
+448
+00:48:33,666 --> 00:48:35,083
+<i>Perdi minha mãe</i>
+
+449
+00:48:36,750 --> 00:48:38,291
+<i>e meu mundo naquele dia.</i>
+
+450
+00:48:46,375 --> 00:48:48,333
+<i>Fui tirado escondido do planeta,</i>
+
+451
+00:48:48,416 --> 00:48:52,500
+<i>num transporte de refugiados</i>
+<i>rumo à estrela brilhante mais próxima.</i>
+
+452
+00:48:54,083 --> 00:48:55,916
+<i>Eu fugi em nome do dever,</i>
+
+453
+00:48:56,000 --> 00:49:00,958
+para preservar um reino
+e uma linhagem que não existem mais.
+
+454
+00:49:04,000 --> 00:49:07,000
+Roubaram minha chance de defendê-los.
+
+455
+00:49:09,125 --> 00:49:10,375
+Mas não mais.
+
+456
+00:49:10,458 --> 00:49:11,625
+Depois daqui,
+
+457
+00:49:12,500 --> 00:49:13,875
+é para lá que vou.
+
+458
+00:49:16,375 --> 00:49:17,375
+Meu lar.
+
+459
+00:49:19,375 --> 00:49:20,666
+Para corrigir…
+
+460
+00:49:23,000 --> 00:49:25,375
+o erro da honra equivocada.
+
+461
+00:49:31,125 --> 00:49:31,958
+Kora.
+
+462
+00:49:32,541 --> 00:49:35,250
+Não disse nada. Qual é a sua história?
+
+463
+00:49:39,333 --> 00:49:41,041
+Eu sou uma órfã da guerra.
+
+464
+00:49:43,916 --> 00:49:46,333
+A disciplina militar combinava comigo.
+
+465
+00:49:46,875 --> 00:49:50,250
+Servi em uma nave bem parecida
+com a Olhar do Rei.
+
+466
+00:49:56,500 --> 00:49:59,416
+Achei que finalmente
+tinha achado uma família.
+
+467
+00:50:03,458 --> 00:50:05,708
+Isso até eu chegar a Veldt.
+
+468
+00:50:07,125 --> 00:50:12,708
+Este lugar me ensinou o que um lar
+e uma família podem ser de verdade.
+
+469
+00:50:15,375 --> 00:50:17,458
+Quer dizer mais alguma coisa?
+
+470
+00:50:24,083 --> 00:50:24,916
+Não.
+
+471
+00:50:28,458 --> 00:50:29,291
+Tem certeza?
+
+472
+00:50:30,333 --> 00:50:31,958
+E a água da nascente?
+
+473
+00:50:32,041 --> 00:50:33,041
+O quê?
+
+474
+00:50:33,958 --> 00:50:35,333
+Faz vários dias
+
+475
+00:50:35,416 --> 00:50:37,291
+que Titus finge beber,
+
+476
+00:50:37,375 --> 00:50:41,208
+porque não quer dar na cara
+que está preocupado com a batalha.
+
+477
+00:50:50,083 --> 00:50:51,083
+É água mesmo.
+
+478
+00:50:55,708 --> 00:50:59,000
+É difícil abandonar
+algumas histórias do passado.
+
+479
+00:50:59,708 --> 00:51:00,750
+É verdade.
+
+480
+00:51:02,708 --> 00:51:03,541
+Amigos…
+
+481
+00:51:05,750 --> 00:51:07,166
+só me resta dizer
+
+482
+00:51:09,041 --> 00:51:13,166
+que agradeço por virem à aldeia
+e nos darem esperança.
+
+483
+00:51:15,333 --> 00:51:16,333
+Obrigado.
+
+484
+00:51:18,333 --> 00:51:22,416
+Não sei o que vai ser de nós
+ao final do dia de amanhã.
+
+485
+00:51:23,750 --> 00:51:27,625
+Torço para o passado de vocês
+não pesar tanto.
+
+486
+00:51:30,375 --> 00:51:32,208
+Muito bem. Vamos beber a isso.
+
+487
+00:51:32,291 --> 00:51:33,833
+A aldeia está pronta.
+
+488
+00:51:33,916 --> 00:51:38,416
+Ótimo. Seja qual for o punhado de soldados
+que vierem coletar os grãos,
+
+489
+00:51:38,500 --> 00:51:39,875
+vamos acabar com eles.
+
+490
+00:51:40,833 --> 00:51:44,208
+Com toda nossa força no campo, sem piedade
+
+491
+00:51:44,291 --> 00:51:46,708
+e sem poupar ninguém que pisar aqui.
+
+492
+00:51:47,500 --> 00:51:48,375
+E depois?
+
+493
+00:51:48,875 --> 00:51:50,291
+Negociar uma troca?
+
+494
+00:51:50,791 --> 00:51:52,291
+Acha que vão escutar?
+
+495
+00:51:53,708 --> 00:51:54,541
+Eu acho.
+
+496
+00:51:55,458 --> 00:51:57,708
+Mas, no caso de dar errado,
+
+497
+00:51:58,958 --> 00:52:01,458
+veja se a nave ainda está funcionando
+
+498
+00:52:01,541 --> 00:52:04,000
+e a esconda de vista logo cedo.
+
+499
+00:52:04,083 --> 00:52:05,125
+Farei isso.
+
+500
+00:52:10,500 --> 00:52:11,500
+Água.
+
+501
+00:52:13,541 --> 00:52:15,083
+Sério, Titus?
+
+502
+00:52:15,166 --> 00:52:17,625
+É general Titus.
+
+503
+00:52:17,708 --> 00:52:19,541
+- Claro.
+- Para você.
+
+504
+00:54:20,291 --> 00:54:21,416
+Oi, James.
+
+505
+00:54:26,125 --> 00:54:29,041
+A última pessoa que me chamou assim
+
+506
+00:54:29,125 --> 00:54:32,541
+foi o velho comandante
+da Mechanicas Militarium,
+
+507
+00:54:32,625 --> 00:54:34,708
+ao morrer nos meus braços.
+
+508
+00:54:35,708 --> 00:54:37,000
+Sinto muito.
+
+509
+00:54:37,666 --> 00:54:40,833
+Tudo bem. Gosto de ouvir esse nome.
+
+510
+00:54:40,916 --> 00:54:44,500
+Ele me alivia da descrença.
+
+511
+00:54:46,583 --> 00:54:47,500
+Veja bem,
+
+512
+00:54:48,166 --> 00:54:51,583
+eu fui dotado de lembranças
+de um mundo que nunca verei,
+
+513
+00:54:52,083 --> 00:54:54,875
+lealdade a um rei a quem não posso servir
+
+514
+00:54:54,958 --> 00:54:59,000
+e amor por uma criança
+que não pude salvar.
+
+515
+00:55:00,750 --> 00:55:06,083
+Mas o som da pronúncia desse nome
+me permite sentir, mesmo que minimamente…
+
+516
+00:55:08,375 --> 00:55:10,583
+o motivo da minha existência.
+
+517
+00:55:12,166 --> 00:55:14,375
+Por isso salvou Sam?
+
+518
+00:55:15,208 --> 00:55:16,333
+Não tenho certeza.
+
+519
+00:55:17,750 --> 00:55:21,833
+Só sei que pensar nela ferida ou destruída
+
+520
+00:55:21,916 --> 00:55:26,083
+abriu uma parte de mim que estava fechada.
+
+521
+00:55:29,333 --> 00:55:31,250
+Está escolhendo um lado, James.
+
+522
+00:55:32,333 --> 00:55:35,625
+Você e eu somos parecidos:
+feitos para matar para eles.
+
+523
+00:55:37,000 --> 00:55:40,833
+Saiba que o pesadelo deles
+é ter nós dois lutando juntos.
+
+524
+00:55:41,916 --> 00:55:44,375
+Não por causa de ordens e comandos,
+
+525
+00:55:45,208 --> 00:55:47,375
+mas para defender algo que amamos.
+
+526
+00:55:53,583 --> 00:55:56,250
+Deve saber que não tem como vencer.
+
+527
+00:56:22,000 --> 00:56:23,083
+Tudo pronto.
+
+528
+00:56:35,708 --> 00:56:36,750
+Encouraçado.
+
+529
+00:56:42,208 --> 00:56:44,791
+Terminem rápido! Vamos!
+
+530
+00:56:44,875 --> 00:56:46,458
+Rápido!
+
+531
+00:56:47,916 --> 00:56:51,166
+Terminem o trabalho e se posicionem!
+
+532
+00:56:52,708 --> 00:56:54,041
+Cubram!
+
+533
+00:57:07,875 --> 00:57:09,500
+As novas estruturas.
+
+534
+00:57:11,500 --> 00:57:12,625
+São os grãos.
+
+535
+00:57:14,833 --> 00:57:17,666
+Eles empilharam nos prédios
+para não destruirmos.
+
+536
+00:57:17,750 --> 00:57:22,541
+Ali e lá, empilharam
+para ter cobertura na hora de atirar.
+
+537
+00:57:22,625 --> 00:57:23,750
+Perspicaz.
+
+538
+00:57:25,291 --> 00:57:27,208
+Não são planos de um agricultor.
+
+539
+00:57:28,083 --> 00:57:31,166
+O general Titus
+ainda não perdeu a noção de tão bêbado.
+
+540
+00:57:31,750 --> 00:57:32,666
+Vejam aqui.
+
+541
+00:57:33,875 --> 00:57:38,208
+As imagens termais mostram muita gente
+na Casa Comunal no topo da aldeia.
+
+542
+00:57:38,291 --> 00:57:40,208
+Certamente mulheres e crianças.
+
+543
+00:57:42,875 --> 00:57:46,541
+Ótimo. Vamos adiar ao máximo
+um confronto violento na aldeia.
+
+544
+00:57:47,750 --> 00:57:51,708
+Enquanto negocio, a Força Krypteia
+vai capturar mulheres e crianças.
+
+545
+00:57:52,541 --> 00:57:54,500
+Só vamos levar alguns blindados.
+
+546
+00:57:55,083 --> 00:57:58,583
+Nem usaremos quando virem
+lâminas no pescoço dos indefesos.
+
+547
+00:57:59,916 --> 00:58:02,250
+Veremos se querem tanto lutar mesmo.
+
+548
+00:59:27,875 --> 00:59:29,041
+Todos para dentro!
+
+549
+00:59:29,125 --> 00:59:31,166
+- Vamos, rápido!
+- Vamos lá!
+
+550
+00:59:31,250 --> 00:59:34,041
+Entrem! Vamos, depressa!
+
+551
+01:01:28,041 --> 01:01:29,333
+Sem boas-vindas?
+
+552
+01:01:31,875 --> 01:01:33,208
+E a recepção calorosa?
+
+553
+01:01:35,833 --> 01:01:37,791
+Nem cheguei a tomar uma cerveja.
+
+554
+01:01:39,291 --> 01:01:40,333
+Arthelais.
+
+555
+01:01:42,750 --> 01:01:44,666
+Diga qual é o intuito.
+
+556
+01:01:44,750 --> 01:01:46,791
+O mesmo da última vez.
+
+557
+01:01:47,791 --> 01:01:48,791
+Vou matar você.
+
+558
+01:01:50,166 --> 01:01:51,166
+Certo.
+
+559
+01:01:52,333 --> 01:01:53,625
+Foi uma honra.
+
+560
+01:01:58,583 --> 01:02:02,708
+Uma cicatriz da Marcadora de Cicatrizes.
+
+561
+01:02:02,791 --> 01:02:05,041
+Não precisamos derramar sangue hoje.
+
+562
+01:02:05,125 --> 01:02:07,666
+Vou dar uma chance de evitar matança.
+
+563
+01:02:08,458 --> 01:02:12,875
+Sabe o que o regente Balisarius vai me dar
+ao levar você para ele?
+
+564
+01:02:12,958 --> 01:02:15,791
+Deve querer um lugar no Senado.
+
+565
+01:02:16,541 --> 01:02:17,583
+É o que mereço.
+
+566
+01:02:17,666 --> 01:02:21,625
+Pegue os grãos para alimentar seu pessoal
+na volta para o Mundo-Mãe.
+
+567
+01:02:21,708 --> 01:02:23,750
+Nem mais nem menos.
+
+568
+01:02:24,416 --> 01:02:26,125
+Sem ferir os aldeões.
+
+569
+01:02:26,208 --> 01:02:29,458
+Diga a Balisarius
+que os guerreiros conseguiram fugir.
+
+570
+01:02:29,541 --> 01:02:31,291
+E não vou levar nada?
+
+571
+01:02:33,083 --> 01:02:34,083
+Nadinha?
+
+572
+01:02:34,666 --> 01:02:35,958
+Leva a vida de vocês.
+
+573
+01:02:37,083 --> 01:02:38,291
+A escolha é sua.
+
+574
+01:02:39,000 --> 01:02:43,500
+Desonra e rebaixamento,
+ou a cabeça arrancada do corpo.
+
+575
+01:02:43,583 --> 01:02:45,250
+Sua nave será sua tumba.
+
+576
+01:02:45,333 --> 01:02:47,583
+Os familiares e o Mundo-Mãe vão saber
+
+577
+01:02:47,666 --> 01:02:50,750
+que vocês foram mortos
+pelos camponeses de Veldt.
+
+578
+01:02:51,541 --> 01:02:54,541
+Fui incumbido de levar honra ao Mundo-Mãe.
+
+579
+01:02:55,708 --> 01:02:58,250
+Eu pretendo cumprir isso.
+
+580
+01:02:59,125 --> 01:03:01,375
+O que mais me fascina nisso tudo
+
+581
+01:03:01,958 --> 01:03:03,958
+é achar que tem poder de barganha.
+
+582
+01:03:04,041 --> 01:03:05,458
+Não tem.
+
+583
+01:03:07,208 --> 01:03:09,875
+Sei que esconderam
+as mulheres e as crianças.
+
+584
+01:03:09,958 --> 01:03:12,916
+Enquanto está aqui,
+seu plano já está dando errado.
+
+585
+01:03:14,791 --> 01:03:18,458
+<i>A menos que façamos um acordo diferente.</i>
+
+586
+01:03:19,458 --> 01:03:21,416
+<i>Posso levar os grãos que ofereceu</i>
+
+587
+01:03:22,625 --> 01:03:25,958
+e fazer como pediu, poupando os aldeões.
+
+588
+01:03:27,125 --> 01:03:29,791
+Essa concessão teria um preço.
+
+589
+01:03:32,375 --> 01:03:33,666
+E o preço é você.
+
+590
+01:03:35,625 --> 01:03:39,541
+Todo membro do seu grupo
+seria muito apreciado pelo Imperium,
+
+591
+01:03:39,625 --> 01:03:44,416
+mas claro que a pessoa mais procurada
+pelo Honorável Regente é você.
+
+592
+01:03:45,208 --> 01:03:46,833
+Arthelais em pessoa.
+
+593
+01:03:52,875 --> 01:03:54,666
+Então eis a sua escolha.
+
+594
+01:03:56,250 --> 01:03:57,833
+<i>Arthelais, renda-se a mim.</i>
+
+595
+01:04:00,708 --> 01:04:02,625
+<i>E vou deixar os aldeões vivos.</i>
+
+596
+01:04:04,750 --> 01:04:06,541
+<i>Se você se recusar,</i>
+
+597
+01:04:07,125 --> 01:04:09,083
+<i>aqueles que a aldeia mais preza,</i>
+
+598
+01:04:09,708 --> 01:04:11,666
+<i>os idosos e as crianças,</i>
+
+599
+01:04:12,333 --> 01:04:14,583
+<i>que estão abrigados na Casa Comunal,</i>
+
+600
+01:04:14,666 --> 01:04:17,000
+<i>serão mortos pelos soldados a caminho.</i>
+
+601
+01:04:18,166 --> 01:04:21,500
+Já não derramamos muito sangue
+naquele recinto lindo?
+
+602
+01:04:23,375 --> 01:04:26,625
+Quer mesmo
+que isso continue por sua causa?
+
+603
+01:04:28,541 --> 01:04:30,041
+Está na hora, Arthelais.
+
+604
+01:04:34,583 --> 01:04:35,625
+O quê?
+
+605
+01:04:37,500 --> 01:04:38,625
+Kora.
+
+606
+01:04:45,166 --> 01:04:46,625
+O que está fazendo?
+
+607
+01:04:48,333 --> 01:04:49,708
+Foi o que pensei.
+
+608
+01:04:49,791 --> 01:04:51,875
+Quer se despedir do seu amigo?
+
+609
+01:04:52,500 --> 01:04:53,875
+Seu pai te espera.
+
+610
+01:04:54,625 --> 01:04:55,750
+Kora, olhe aqui.
+
+611
+01:05:00,166 --> 01:05:01,416
+O que foi?
+
+612
+01:05:04,833 --> 01:05:05,916
+Sinto muito.
+
+613
+01:05:06,958 --> 01:05:08,958
+Não vou deixar morrerem por mim.
+
+614
+01:05:09,541 --> 01:05:10,958
+Sei o que faço.
+
+615
+01:05:11,041 --> 01:05:12,125
+Ele mentiu.
+
+616
+01:05:12,208 --> 01:05:14,625
+- Me solte. Solte!
+- Não!
+
+617
+01:05:25,291 --> 01:05:26,708
+Não.
+
+618
+01:05:26,791 --> 01:05:27,791
+Não!
+
+619
+01:05:35,791 --> 01:05:37,250
+- Não!
+- Vem!
+
+620
+01:05:57,666 --> 01:05:58,833
+Vai!
+
+621
+01:06:23,250 --> 01:06:26,958
+Vamos, Kora! Tem que ir até a sua nave.
+
+622
+01:06:29,958 --> 01:06:31,958
+Anda! Você é a nossa única chance.
+
+623
+01:06:34,916 --> 01:06:35,750
+Vamos.
+
+624
+01:06:40,250 --> 01:06:41,208
+Vai, subindo!
+
+625
+01:07:08,875 --> 01:07:10,666
+- Levante, soldado!
+- Não dá.
+
+626
+01:07:10,750 --> 01:07:11,791
+Vamos!
+
+627
+01:07:14,000 --> 01:07:14,958
+Para a frente!
+
+628
+01:07:17,375 --> 01:07:19,375
+<i>AA-77, saia daí imediatamente.</i>
+
+629
+01:07:19,458 --> 01:07:20,958
+Precisamos decolar!
+
+630
+01:07:36,125 --> 01:07:37,458
+Preparar para disparo.
+
+631
+01:07:49,833 --> 01:07:50,750
+Ai, droga.
+
+632
+01:08:06,791 --> 01:08:08,166
+- Vai.
+- Vamos!
+
+633
+01:08:29,833 --> 01:08:30,916
+Manter posição!
+
+634
+01:08:57,208 --> 01:08:58,291
+Atenção à direita!
+
+635
+01:09:25,666 --> 01:09:26,500
+Pronto, vai!
+
+636
+01:09:52,708 --> 01:09:53,750
+Vamos decolar!
+
+637
+01:11:28,750 --> 01:11:29,916
+Segure firme.
+
+638
+01:11:39,500 --> 01:11:40,333
+Lá!
+
+639
+01:11:43,166 --> 01:11:44,458
+Entrando em formação.
+
+640
+01:11:48,208 --> 01:11:50,250
+Ao meu sinal, solte a fumaça.
+
+641
+01:11:50,833 --> 01:11:52,250
+Puta merda!
+
+642
+01:11:54,083 --> 01:11:55,833
+Kora, tem certeza?
+
+643
+01:11:56,541 --> 01:11:58,500
+Agora. Solte agora.
+
+644
+01:12:40,166 --> 01:12:41,375
+<i>Atracando.</i>
+
+645
+01:12:41,458 --> 01:12:43,125
+Aquela nave está danificada.
+
+646
+01:12:44,208 --> 01:12:45,875
+<i>Tenho feridos.</i>
+
+647
+01:12:45,958 --> 01:12:47,750
+Os instrumentos não funcionam.
+
+648
+01:12:49,916 --> 01:12:51,541
+<i>Estou passando o controle.</i>
+
+649
+01:12:51,625 --> 01:12:55,208
+Pode deixar, soldado.
+Vou pôr você no hangar principal.
+
+650
+01:12:55,291 --> 01:12:57,250
+<i>Para manutenção e resgate médico.</i>
+
+651
+01:13:21,666 --> 01:13:25,166
+Chegou a hora de lutar pelo que amam.
+
+652
+01:13:25,250 --> 01:13:26,625
+Pelo seu lar.
+
+653
+01:13:26,708 --> 01:13:29,833
+Protejam-se e não tenham piedade.
+
+654
+01:13:29,916 --> 01:13:31,291
+Por Sindri!
+
+655
+01:13:47,250 --> 01:13:50,041
+Titus e os outros
+não podem fazer tudo sozinhos.
+
+656
+01:13:50,625 --> 01:13:51,458
+Estão prontos?
+
+657
+01:13:51,541 --> 01:13:53,791
+Para lutar e morrer!
+
+658
+01:13:55,416 --> 01:13:57,333
+A morte fica para os inimigos.
+
+659
+01:14:52,458 --> 01:14:56,916
+Almirante, a Força Krypteia
+já deve ter capturado mulheres e crianças.
+
+660
+01:14:57,000 --> 01:14:59,875
+Aguardamos uma atualização, senhor.
+
+661
+01:16:19,583 --> 01:16:21,083
+Tem um no porão de carga!
+
+662
+01:16:21,916 --> 01:16:24,125
+Está ouvindo? Você está bem?
+
+663
+01:16:24,208 --> 01:16:26,166
+Vou tentar tirar você daqui.
+
+664
+01:16:26,250 --> 01:16:28,166
+Peguei você. Vai ficar tudo bem.
+
+665
+01:16:29,000 --> 01:16:29,916
+Vamos.
+
+666
+01:16:30,000 --> 01:16:32,916
+- Calma.
+- Dois feridos, inconscientes!
+
+667
+01:16:33,000 --> 01:16:34,291
+Tragam as macas!
+
+668
+01:16:36,291 --> 01:16:38,958
+Vamos pôr lá. Segure.
+
+669
+01:16:39,041 --> 01:16:41,250
+Pegue nos ombros. Pego nas pernas.
+
+670
+01:16:41,333 --> 01:16:42,791
+Levantando. Lá vai.
+
+671
+01:16:44,000 --> 01:16:46,958
+Vamos lá. Pode relatar.
+
+672
+01:16:47,041 --> 01:16:50,208
+Danos por estilhaços.
+Pequeno ferimento por munição.
+
+673
+01:16:50,916 --> 01:16:52,958
+Inspeção visual no elevador.
+
+674
+01:16:53,833 --> 01:16:54,916
+Vamos.
+
+675
+01:17:12,000 --> 01:17:12,958
+Não.
+
+676
+01:18:39,208 --> 01:18:40,458
+Está tudo bem.
+
+677
+01:18:47,041 --> 01:18:48,833
+Você fez bem.
+
+678
+01:21:56,041 --> 01:21:56,875
+Sim.
+
+679
+01:22:11,875 --> 01:22:14,083
+Tire o capacete. Apoie o pescoço.
+
+680
+01:22:17,708 --> 01:22:19,166
+Não vejo ferimentos.
+
+681
+01:22:19,250 --> 01:22:21,166
+E esse daí? Estável?
+
+682
+01:22:21,250 --> 01:22:22,250
+Pulso acelerado.
+
+683
+01:22:22,333 --> 01:22:24,416
+Não vejo ferimentos, só sangue.
+
+684
+01:22:24,500 --> 01:22:27,666
+- É por baixo?
+- Tire a balaclava. Tem um ferimento.
+
+685
+01:22:27,750 --> 01:22:28,750
+Checando o pulso.
+
+686
+01:22:31,541 --> 01:22:33,000
+O pulso está bem baixo.
+
+687
+01:22:34,500 --> 01:22:35,333
+Espere. Não é…
+
+688
+01:22:50,041 --> 01:22:51,291
+Me dê os explosivos.
+
+689
+01:22:52,125 --> 01:22:53,625
+- Explosivos.
+- Espere.
+
+690
+01:22:56,916 --> 01:22:59,083
+Volte para a nave e dê partida.
+
+691
+01:22:59,166 --> 01:23:01,708
+Vamos ter pouco tempo antes da explosão.
+
+692
+01:23:01,791 --> 01:23:02,791
+Está bem.
+
+693
+01:23:12,833 --> 01:23:14,041
+Vou esperar você lá.
+
+694
+01:23:17,541 --> 01:23:20,375
+- Tem um elevador por aqui.
+- Certo. Depressa.
+
+695
+01:23:21,250 --> 01:23:22,750
+<i>Todos em alerta.</i>
+
+696
+01:24:43,375 --> 01:24:45,625
+<i>Entendido. Mirando o edifício.</i>
+
+697
+01:27:29,833 --> 01:27:32,125
+Alerta de invasão. Repito: invasão.
+
+698
+01:27:33,125 --> 01:27:36,041
+Mandando reforços.
+Tipo e número de invasores?
+
+699
+01:27:36,125 --> 01:27:38,291
+<i>Tiros disparados e homens feridos.</i>
+
+700
+01:27:38,875 --> 01:27:40,125
+É uma mulher…
+
+701
+01:27:42,916 --> 01:27:46,708
+O quê? O que está acontecendo?
+
+702
+01:27:46,791 --> 01:27:49,458
+Há uma situação na casa de máquinas.
+
+703
+01:27:49,541 --> 01:27:52,250
+Ele disse que uma mulher entrou na nave.
+
+704
+01:27:56,125 --> 01:27:57,208
+Arthelais.
+
+705
+01:27:59,500 --> 01:28:01,333
+Arthelais está na nave.
+
+706
+01:28:02,041 --> 01:28:03,416
+Isso é impossível.
+
+707
+01:28:04,166 --> 01:28:05,208
+Não, é ela.
+
+708
+01:28:05,791 --> 01:28:07,208
+Ela veio até nós.
+
+709
+01:28:07,291 --> 01:28:08,541
+É perfeito.
+
+710
+01:28:08,625 --> 01:28:11,166
+Alerte todo mundo. Quero que a capturem.
+
+711
+01:28:12,166 --> 01:28:13,208
+E, Cassius,
+
+712
+01:28:13,708 --> 01:28:15,333
+pode destruir a aldeia.
+
+713
+01:28:17,333 --> 01:28:19,500
+Senhor, os grãos.
+
+714
+01:28:20,666 --> 01:28:22,375
+Não precisamos mais deles.
+
+715
+01:28:23,416 --> 01:28:25,000
+A Marcadora veio até nós.
+
+716
+01:28:28,458 --> 01:28:30,208
+Temos soldados em solo.
+
+717
+01:28:31,875 --> 01:28:35,458
+Sim, menos bocas para alimentar.
+
+718
+01:28:36,125 --> 01:28:39,250
+Pegando a Marcadora,
+vamos voltar para o Mundo-Mãe.
+
+719
+01:28:40,250 --> 01:28:41,916
+Lá, não precisamos de grãos.
+
+720
+01:28:43,166 --> 01:28:44,166
+Destrua.
+
+721
+01:28:48,958 --> 01:28:51,583
+Ouviu o almirante. Carregue os canhões.
+
+722
+01:28:52,875 --> 01:28:53,791
+Setor de armas.
+
+723
+01:28:54,666 --> 01:28:56,166
+- Sim.
+<i>- Mire na aldeia.</i>
+
+724
+01:28:56,250 --> 01:28:57,791
+Carregar canhões.
+
+725
+01:28:57,875 --> 01:28:59,208
+Imediatamente, senhor.
+
+726
+01:29:05,416 --> 01:29:07,291
+Temos ordens de ataque.
+
+727
+01:29:12,500 --> 01:29:14,458
+A casa de máquinas não responde.
+
+728
+01:29:14,541 --> 01:29:16,500
+- Cadê ela?
+- Estamos procurando.
+
+729
+01:29:16,583 --> 01:29:18,291
+Está indo do subnível 3 ao 4.
+
+730
+01:29:18,375 --> 01:29:20,291
+Que droga está acontecendo?
+
+731
+01:29:20,375 --> 01:29:23,166
+Guardas, dirijam-se à casa de máquinas.
+
+732
+01:29:24,083 --> 01:29:25,666
+Quero uma atualização!
+
+733
+01:29:30,958 --> 01:29:31,875
+Senhor.
+
+734
+01:29:33,333 --> 01:29:34,541
+Tenente.
+
+735
+01:29:44,833 --> 01:29:47,875
+<i>Comandantes, façam a contagem de efetivos.</i>
+
+736
+01:30:10,375 --> 01:30:13,291
+- Em frente!
+- Vamos!
+
+737
+01:30:28,500 --> 01:30:29,375
+Não!
+
+738
+01:30:30,083 --> 01:30:32,458
+- Eu vou lá!
+- Vai!
+
+739
+01:30:55,458 --> 01:30:57,250
+Você se feriu? Vem cá.
+
+740
+01:31:25,833 --> 01:31:28,250
+Achei que seria bom morrer em batalha.
+
+741
+01:31:30,000 --> 01:31:31,375
+Lutar por alguma coisa.
+
+742
+01:31:33,375 --> 01:31:34,833
+Parece que me enganei.
+
+743
+01:31:36,375 --> 01:31:38,250
+Acho que não quero morrer.
+
+744
+01:31:42,458 --> 01:31:43,666
+Mas se for preciso…
+
+745
+01:31:46,833 --> 01:31:47,958
+Lado a lado.
+
+746
+01:31:49,916 --> 01:31:51,166
+Vamos lá!
+
+747
+01:34:14,375 --> 01:34:15,375
+Kora?
+
+748
+01:34:16,375 --> 01:34:17,791
+Kora, cadê você?
+
+749
+01:34:18,416 --> 01:34:20,208
+<i>Motor ligado. Estou esperando.</i>
+
+750
+01:34:20,291 --> 01:34:21,958
+O tempo está acabando.
+
+751
+01:34:22,666 --> 01:34:23,958
+Estou chegando.
+
+752
+01:34:24,875 --> 01:34:25,916
+Ótimo.
+
+753
+01:34:53,500 --> 01:34:56,500
+<i>Todos em alerta.</i>
+<i>Temos uma fugitiva a bordo.</i>
+
+754
+01:37:03,541 --> 01:37:04,875
+Arthelais.
+
+755
+01:37:06,541 --> 01:37:10,333
+Fico grato por não ter aceitado
+minha oferta de rendição.
+
+756
+01:37:11,000 --> 01:37:13,458
+A história melhora se eu matá-la lutando.
+
+757
+01:37:16,416 --> 01:37:17,916
+Parabéns por chegar aqui.
+
+758
+01:37:19,708 --> 01:37:21,250
+Foi melhor que imaginei.
+
+759
+01:37:23,041 --> 01:37:27,166
+Bem melhor do que o esperado
+de um bando de agricultores malditos.
+
+760
+01:37:29,625 --> 01:37:30,625
+Pois é.
+
+761
+01:37:40,291 --> 01:37:41,375
+Alvo estabelecido.
+
+762
+01:37:43,083 --> 01:37:44,291
+Aldeia na mira.
+
+763
+01:37:44,375 --> 01:37:45,250
+Confirmado.
+
+764
+01:37:48,333 --> 01:37:49,458
+Senhor!
+
+765
+01:37:57,708 --> 01:37:58,958
+O quê?
+
+766
+01:38:00,708 --> 01:38:03,083
+Canhão armado e pronto para disparo.
+
+767
+01:38:03,166 --> 01:38:05,000
+Essa não!
+
+768
+01:38:14,583 --> 01:38:15,916
+Pode disparar.
+
+769
+01:38:49,791 --> 01:38:51,041
+É Kora!
+
+770
+01:38:53,625 --> 01:38:54,625
+Vá pegá-la.
+
+771
+01:38:58,666 --> 01:39:00,125
+Não!
+
+772
+01:40:27,500 --> 01:40:28,625
+Kora!
+
+773
+01:41:06,666 --> 01:41:07,666
+Venha aqui!
+
+774
+01:41:21,541 --> 01:41:25,125
+Abra os olhos!
+
+775
+01:41:29,333 --> 01:41:30,916
+Olhe para mim!
+
+776
+01:42:25,458 --> 01:42:26,291
+Vamos!
+
+777
+01:42:57,916 --> 01:42:58,750
+Vamos.
+
+778
+01:43:56,750 --> 01:43:58,916
+Ei, você.
+
+779
+01:43:59,000 --> 01:44:02,250
+Calma, vem cá.
+
+780
+01:44:03,250 --> 01:44:04,208
+Vem cá.
+
+781
+01:44:19,541 --> 01:44:20,625
+Vou ver.
+
+782
+01:44:30,375 --> 01:44:32,666
+Ei, fique comigo.
+
+783
+01:44:33,500 --> 01:44:36,625
+Fique comigo.
+
+784
+01:44:37,208 --> 01:44:39,416
+Não posso ter nem isso?
+
+785
+01:44:41,916 --> 01:44:44,083
+- Fique comigo.
+- Está tudo bem.
+
+786
+01:44:44,583 --> 01:44:46,208
+Veja o que fizemos.
+
+787
+01:44:47,666 --> 01:44:48,916
+Você salvou a gente.
+
+788
+01:44:50,333 --> 01:44:51,375
+Todos nós.
+
+789
+01:44:54,000 --> 01:44:54,958
+Ei…
+
+790
+01:45:00,333 --> 01:45:01,333
+Eu te amo.
+
+791
+01:45:01,833 --> 01:45:02,875
+Por favor.
+
+792
+01:45:04,833 --> 01:45:05,708
+Por favor.
+
+793
+01:45:05,791 --> 01:45:07,291
+Eu sei o que você é,
+
+794
+01:45:09,166 --> 01:45:10,416
+e eu te amo.
+
+795
+01:45:14,125 --> 01:45:15,166
+Por favor.
+
+796
+01:45:24,833 --> 01:45:25,666
+Veja!
+
+797
+01:45:31,083 --> 01:45:32,541
+Em formação comigo!
+
+798
+01:45:32,625 --> 01:45:34,083
+Entendido, comandante.
+
+799
+01:45:34,166 --> 01:45:36,291
+Mirem nas naves!
+
+800
+01:45:36,375 --> 01:45:37,750
+Entendido, comandante.
+
+801
+01:45:39,750 --> 01:45:42,750
+Esquadrão Black Mountain,
+eliminem os caças.
+
+802
+01:47:10,000 --> 01:47:14,416
+Titus! Viva!
+
+803
+01:47:16,875 --> 01:47:18,166
+Isso aí!
+
+804
+01:47:28,500 --> 01:47:32,666
+Veja, é Devra Bloodaxe
+e o resto da frota rebelde.
+
+805
+01:47:32,750 --> 01:47:35,208
+Acabou mesmo. Tudo…
+
+806
+01:47:39,000 --> 01:47:40,125
+Não.
+
+807
+01:47:42,708 --> 01:47:43,750
+Não.
+
+808
+01:47:56,666 --> 01:47:57,875
+Eu te amo.
+
+809
+01:47:59,125 --> 01:48:00,250
+Eu te amo.
+
+810
+01:48:12,541 --> 01:48:15,875
+<i>De outros mundos,</i>
+<i>eles vieram lutar por nós.</i>
+
+811
+01:48:18,208 --> 01:48:19,375
+Morrer por nós.
+
+812
+01:48:23,000 --> 01:48:24,916
+Que eles encontrem a paz.
+
+813
+01:48:26,458 --> 01:48:30,458
+Vamos honrá-los
+do único jeito que podemos.
+
+814
+01:48:32,250 --> 01:48:34,166
+Lembrando o nome deles
+
+815
+01:48:35,333 --> 01:48:39,208
+quando fizermos nossa colheita.
+
+816
+01:48:41,958 --> 01:48:46,416
+Na próxima temporada
+e uma centena de temporadas depois.
+
+817
+01:48:48,666 --> 01:48:50,625
+E continuando a viver.
+
+818
+01:48:52,500 --> 01:48:54,416
+Continuando a viver.
+
+819
+01:49:09,833 --> 01:49:13,583
+Todos vocês honram os que pereceram.
+
+820
+01:49:15,916 --> 01:49:18,875
+Vocês honram meu irmão e a coragem dele.
+
+821
+01:49:20,708 --> 01:49:24,083
+Não me relacione a honra e coragem.
+
+822
+01:49:26,625 --> 01:49:27,958
+Eu menti para você.
+
+823
+01:49:28,750 --> 01:49:29,875
+Para todos vocês.
+
+824
+01:49:34,333 --> 01:49:35,250
+Titus.
+
+825
+01:49:40,500 --> 01:49:41,583
+Eu sei, criança.
+
+826
+01:49:43,125 --> 01:49:44,208
+Eu sei.
+
+827
+01:49:46,875 --> 01:49:48,625
+Sabe que sou Arthelais?
+
+828
+01:49:49,666 --> 01:49:52,333
+A filha adotiva do regente Balisarius.
+
+829
+01:49:54,125 --> 01:49:56,375
+E a assassina da princesa Issa.
+
+830
+01:49:58,291 --> 01:50:00,833
+Eu sei seu nome, sim.
+
+831
+01:50:09,250 --> 01:50:11,291
+Mas você não a assassinou.
+
+832
+01:50:12,708 --> 01:50:15,333
+A princesa ainda está viva.
+
+833
+01:50:20,041 --> 01:50:22,625
+Achou que ela seria morta tão facilmente?
+
+834
+01:50:24,333 --> 01:50:27,416
+Não. Ela é superior à morte.
+
+835
+01:50:31,666 --> 01:50:32,833
+O que eu faço?
+
+836
+01:50:35,083 --> 01:50:37,500
+Agora você tem uma motivação:
+
+837
+01:50:37,583 --> 01:50:39,375
+encontrá-la e lutar.
+
+838
+01:50:41,875 --> 01:50:44,000
+Se escolher lutar,
+
+839
+01:50:45,708 --> 01:50:47,833
+eu estarei ao seu lado.
+
+840
+01:50:53,541 --> 01:50:54,541
+Todos nós.
+
+841
+01:50:56,666 --> 01:50:58,125
+E eu também.
+
+842
+01:51:08,000 --> 01:51:09,625
+Se eu puder ajudar…
+
+843
+01:51:11,958 --> 01:51:13,416
+tenho isto.
+
+844
+01:51:17,375 --> 01:51:21,541
+Quer lutar com a gente, robô?
+Encontrar a princesa perdida?
+
+845
+01:51:22,250 --> 01:51:26,708
+Se for verdade que a princesa está viva,
+
+846
+01:51:27,208 --> 01:51:29,250
+eu não tenho outra escolha.
+
+847
+01:51:29,333 --> 01:51:33,833
+Sirvo à linhagem do rei morto.
+É uma honra lutar.
+
+848
+01:51:37,333 --> 01:51:40,083
+Para encontrá-la e lutar.
+
+849
+01:51:59,458 --> 01:52:03,541
+Para encontrá-la e lutar.
+
+850
+02:01:19,500 --> 02:01:24,500
+Legendas: Karina Curi
+
