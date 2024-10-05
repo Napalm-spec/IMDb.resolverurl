@@ -1,0 +1,41 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.is/e/mkvjldoma0grp0</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/kkP50MUDBqt4JqDEwxk32wUHePk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Ação | Aventura | Ficção
+[COLOR lime]Duração:[/COLOR] 2 H 03 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 5,3
+</info>
+</item>
+
+
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.is/e/owqdj7e3hxv0ek</link>
+<subtitle>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/Legends/Rebel.Moon.Parte.2.A.Marcadora.de.Cicatrizes.2024.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/kkP50MUDBqt4JqDEwxk32wUHePk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Ação | Aventura | Ficção
+[COLOR lime]Duração:[/COLOR] 2 H 03 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 5,3
+</info>
+</item>
++++++++++
