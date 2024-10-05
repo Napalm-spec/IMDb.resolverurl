@@ -93,5 +93,16 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/906126-la-sociedad-de-la-nieve.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Sessenta Minutos (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/n5wjsuYh954HLagCnqrLpPT8xi7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/adNMDatnEnIEo4LUo1KyhouP6VA.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Desesperado por manter a custódia da filha, um lutador de artes marciais mistas abandona um grande combate e atravessa Berlim para ir à festa de aniversário dela.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/1212073-60-minuten.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
 
 </channels>
