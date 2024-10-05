@@ -113,5 +113,16 @@
 <externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/866398-the-beekeeper.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Rebel Moon – Parte 2: A Marcadora de Cicatrizes (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/kkP50MUDBqt4JqDEwxk32wUHePk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/934632-rebel-moon-part-two-the-scargiver.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
 
 </channels>
