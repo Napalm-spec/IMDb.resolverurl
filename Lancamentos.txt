@@ -104,7 +104,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] Sessenta Minutos (2024)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Beekeeper: Rede de Vingança (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg</fanart>
 <info>
