@@ -1,0 +1,39 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/9ngej4e0a3lnn6v</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/tjgvRagGNhSCznCX65w2hOGBOEd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/euO884625eFLfKLoc0MtFs5QiOS.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Ação | Suspense
+[COLOR lime]Duração:[/COLOR] 1h 28 Min.
+[COLOR lime]Lançamento:[/COLOR] 2023
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 4,2
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/dqgkewjwaz9003</link>
+<subtitle>https://subs.warezcdn.com/228248-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/tjgvRagGNhSCznCX65w2hOGBOEd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/euO884625eFLfKLoc0MtFs5QiOS.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Ação | Suspense
+[COLOR lime]Duração:[/COLOR] 1h 28 Min.
+[COLOR lime]Lançamento:[/COLOR] 2023
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 4,2
+</info>
+</item>
++++++++++
