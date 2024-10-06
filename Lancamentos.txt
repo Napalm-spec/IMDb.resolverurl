@@ -2,7 +2,16 @@
 
 
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Os Caras Malvados: Assalto Assombrado (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/tbR70ceR2Qw2fNMDj1cvOhmTfwa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vGaBqgY8YRzQVUbBMPnd5SmYvL7.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/1329336-the-bad-guys-haunted-heist.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Prenda a Respiração (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4kHtK3nnbOHgwnKispurL1GVd8g.jpg</thumbnail>
