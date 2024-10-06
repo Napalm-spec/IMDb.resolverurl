@@ -13,7 +13,7 @@
 [COLOR lime]Áudio:[/COLOR] Português | PT-BR
 [COLOR lime]Qualidade de Áudio:[/COLOR] 10 
 [COLOR lime]Qualidade de Vídeo:[/COLOR] 10
-[COLOR lime]IMDb:[/COLOR] 7,0
+[COLOR lime]IMDb:[/COLOR] 5,0
 </info>
 </item>
 +++++++++
@@ -33,7 +33,7 @@
 [COLOR lime]Legenda:[/COLOR] PT-BR
 [COLOR lime]Qualidade de Áudio:[/COLOR] 10 
 [COLOR lime]Qualidade de Vídeo:[/COLOR] 10
-[COLOR lime]IMDb:[/COLOR] 7,0
+[COLOR lime]IMDb:[/COLOR] 5,0
 </info>
 </item>
 +++++++++
