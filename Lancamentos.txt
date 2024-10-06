@@ -7,7 +7,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/tbR70ceR2Qw2fNMDj1cvOhmTfwa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vGaBqgY8YRzQVUbBMPnd5SmYvL7.jpg</fanart>
 <info>
-[COLOR lime]SINOPSE:[/COLOR]
+[COLOR lime]SINOPSE:[/COLOR]Os Mauzões embarcam numa arriscada golpada de Halloween para surripiar um lendário amuleto de uma mansão assustadora. Tudo para correr bem, não é?
 </info>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/1329336-the-bad-guys-haunted-heist.txt</externallink>
 </channel>
