@@ -1,6 +1,18 @@
 <channels>
 
 
+
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] O Poço 2(2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/a7midcKAyl5GgwiiDg3lR7NWsc4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Após um líder misterioso impor a sua justiça num brutal sistema de celas verticais, um novo residente insurge-se contra um cruel método de distribuição de alimentos.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/1125510-el-hoyo-2.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Alerta Amber (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/sI0WxsgVFE5RkPA7G6PznWRxBEW.jpg</thumbnail>
