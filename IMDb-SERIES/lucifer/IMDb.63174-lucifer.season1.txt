@@ -1,0 +1,455 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 01)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/vngq94oot6l9oe</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 01)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/gn843m7wfm1lo8</link>
+<subtitle>https://subs.warezcdn.com/101233-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 02)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/rwr7gl6oi771nn</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 02)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/84mvkwk7fd8jxz</link>
+<subtitle>https://subs.warezcdn.com/101234-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 03)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/3nwrvj3vued4n7</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 03)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/qlkow8jvtjww49</link>
+<subtitle>https://subs.warezcdn.com/101235-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 04)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/vn0x7qrphq8g0zn</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 04)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/ql0gzlg8a09q16</link>
+<subtitle>https://subs.warezcdn.com/101236-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 05)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/84zprx33t04ne1</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 05)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/kn4j8wrrug37op</link>
+<subtitle>https://subs.warezcdn.com/101237-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 06)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/1verrw3mbnm3g4</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 06)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/wn3vgdgxt3wz7r</link>
+<subtitle>https://subs.warezcdn.com/101238-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 07)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/j960g983trv1o7</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 07)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/6qe6p0wvhvom14</link>
+<subtitle>https://subs.warezcdn.com/101239-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 08)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/j9xowo6pu7810kd</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 08)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/wn3vlvq0u9lv41</link>
+<subtitle>https://subs.warezcdn.com/101240-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 09)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/rw1jeqeghgp0vo</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 09)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/xokmll3dilln8or</link>
+<subtitle>https://subs.warezcdn.com/101241-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 10)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/xo8n7knduenok6</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 10)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/9nej4rdlf3z99rk</link>
+<subtitle>https://subs.warezcdn.com/101242-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 11)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/1vx70nzltmxnzx</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 11)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/84ew3nmoc68ng8</link>
+<subtitle>https://subs.warezcdn.com/101243-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 12)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/envpej6quwwvpo</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 12)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/n0kwrmqjs0e6vq</link>
+<subtitle>https://subs.warezcdn.com/101244-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 13)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/xo8k6olgce1dx8</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 43 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 13)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/9nej1xlzf3vmp0l</link>
+<subtitle>https://subs.warezcdn.com/101245-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Crime | Drama | Mistério
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2017
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 8,3
+</info>
+</item>
++++++++++

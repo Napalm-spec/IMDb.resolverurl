@@ -1,0 +1,35 @@
+<channels>
+
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lucifer (2017) 3 Temporada[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1gRvYXXA31Ts0ApgNKu8i1mM9a7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Enquanto Lúcifer enfrenta uma crise de identidade, um novo e rude tenente da polícia abala o status quo de Chloe e do resto do LAPD.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season3.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lucifer (2016) 2 Temporada[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/NhVsRaNhfXknIseUb2hY02gqom.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Lúcifer retorna para mais uma temporada, mas sua atitude despreocupada pode em breve precisar de um ajuste: sua mãe está vindo para a cidade.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season2.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lucifer (2016) 1 Temporada[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season1.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+</channels>
