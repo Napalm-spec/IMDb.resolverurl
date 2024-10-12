@@ -1,7 +1,16 @@
 <channels>
 
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Guerra e Revolta(2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/41ywUbgGvxKsoWBm4dS8Bbb2Af5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iH6y32ZS5WOgG2Q22S2xdvqn7jq.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Quando uma menina de 8 anos desaparece no Lago Caddo, uma série de mortes e desaparecimentos do passado começam a se conectar, alterando a história de uma família quebrada.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-FILMES/863873-caddo-lake.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Guerra e Revolta(2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/gon3hWutfHTz7jCuG7i3kBRzS0R.jpg</thumbnail>
