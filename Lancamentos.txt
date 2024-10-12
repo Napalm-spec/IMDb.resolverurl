@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] Guerra e Revolta(2024)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] The Forge (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m25DNsLhsODTp0QhKIur4vIby8C.jpg</fanart>
 <info>
@@ -13,7 +13,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] Guerra e Revolta(2024)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Caddo Lake (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/41ywUbgGvxKsoWBm4dS8Bbb2Af5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iH6y32ZS5WOgG2Q22S2xdvqn7jq.jpg</fanart>
 <info>
@@ -23,7 +23,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] Guerra e Revolta(2024)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Guerra e Revolta (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/gon3hWutfHTz7jCuG7i3kBRzS0R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wzxowzWL3HUtcc7DdIKEakWqTC0.jpg</fanart>
 <info>
@@ -33,7 +33,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] O Poço 2(2024)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] O Poço 2 (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/a7midcKAyl5GgwiiDg3lR7NWsc4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg</fanart>
 <info>
