@@ -8,7 +8,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Enquanto Lúcifer enfrenta uma crise de identidade, um novo e rude tenente da polícia abala o status quo de Chloe e do resto do LAPD.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season3.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-SERIES/lucifer/IMDb.63174-lucifer.season3.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -18,7 +18,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Lúcifer retorna para mais uma temporada, mas sua atitude despreocupada pode em breve precisar de um ajuste: sua mãe está vindo para a cidade.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season2.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-SERIES/lucifer/IMDb.63174-lucifer.season2.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -28,7 +28,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season1.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-SERIES/lucifer/IMDb.63174-lucifer.season1.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 
