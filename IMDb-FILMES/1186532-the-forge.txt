@@ -1,0 +1,39 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/xwee6egeinqwzo</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m25DNsLhsODTp0QhKIur4vIby8C.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Drama
+[COLOR lime]Duração:[/COLOR] 2 H 02 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6,8
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/9wpp0400t3lnmxn</link>
+<subtitle>https://subs.warezcdn.link/240831-PTB.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m25DNsLhsODTp0QhKIur4vIby8C.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Drama
+[COLOR lime]Duração:[/COLOR] 2 H 02 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6,8
+</info>
+</item>
++++++++++
