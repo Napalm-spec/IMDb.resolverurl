@@ -6,7 +6,7 @@
 <fanart>https://image.tmdb.org/t/p/original/wzxowzWL3HUtcc7DdIKEakWqTC0.jpg</fanart>
 <info>
 [COLOR lime]Gênero:[/COLOR] Ação | Drama | História
-[COLOR lime]Duração:[/COLOR] 50 Min.
+[COLOR lime]Duração:[/COLOR] 2 H 08 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024
 [COLOR lime]Qualidade:[/COLOR] WEB-DL
 [COLOR lime]Formato:[/COLOR] MKV
@@ -25,7 +25,7 @@
 <fanart>https://image.tmdb.org/t/p/original/wzxowzWL3HUtcc7DdIKEakWqTC0.jpg</fanart>
 <info>
 [COLOR lime]Gênero:[/COLOR] Ação | Drama | História
-[COLOR lime]Duração:[/COLOR] 50 Min.
+[COLOR lime]Duração:[/COLOR] 2 H 08 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024
 [COLOR lime]Qualidade:[/COLOR] WEB-DL
 [COLOR lime]Formato:[/COLOR] MKV
