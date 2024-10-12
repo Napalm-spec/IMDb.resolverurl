@@ -8,7 +8,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Series/lucifer/IMDb.63174-lucifer.season1.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/IMDb-SERIES/lucifer/Series.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 
