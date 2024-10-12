@@ -2,7 +2,16 @@
 
 
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Guerra e Revolta(2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gon3hWutfHTz7jCuG7i3kBRzS0R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wzxowzWL3HUtcc7DdIKEakWqTC0.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Na dinastia Joseon, dois amigos que cresceram como senhor e servo se reencontram após a guerra, mas agora são inimigos em lados opostos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.565770-blue-beetle.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] O Poço 2(2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/a7midcKAyl5GgwiiDg3lR7NWsc4.jpg</thumbnail>
