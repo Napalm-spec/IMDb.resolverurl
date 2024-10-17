@@ -1,7 +1,16 @@
 <channels>
 
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] teste (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m25DNsLhsODTp0QhKIur4vIby8C.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.
+</info>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/teste.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] The Forge (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg</thumbnail>
