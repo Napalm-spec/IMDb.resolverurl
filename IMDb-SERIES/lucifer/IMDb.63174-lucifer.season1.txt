@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO (EPISÓDIO 01)</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/vngq94oot6l9oe</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/dkxl16o6u0g8l9</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
@@ -17,8 +17,8 @@
 +++++++++
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO (EPISÓDIO 01)</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/gn843m7wfm1lo8</link>
-<subtitle>https://subs.warezcdn.com/101233-PT.srt</subtitle>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ps/e/036dqp6gf8kkk6</link>
+<subtitle>https://subs.warezcdn.link/101233-PT.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
 <info>
