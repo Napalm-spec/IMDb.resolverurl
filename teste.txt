@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO</title>
-<link>plugin://plugin.video.anonym_player?url=https://anonymfile.com/EjRPd</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:204cc40ab4c230fa9135ef0bbf835d2f42b7e151&dn=Uglies%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>CAPA</thumbnail>
 <fanart>FUNDO</fanart>
