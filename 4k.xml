@@ -8,7 +8,8 @@
 			"fanart": "https://image.tmdb.org/t/p/original/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
 			"genre": "Ficção científica, Aventura",
 			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9eec82c0d07bb05b02426f2b4a24e574ea0b2585&dn=Elevation%20(2024)%20%5B2160p%5D%20%5B4K%5D%20%5BWEB%5D%20%5B5.1%5D%20%5BYTS.MX%5D",
-			"type": "item"
+			"subtitle": " https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/master/Legends/Rebel.Moon.Parte.2.A.Marcadora.de.Cicatrizes.2024.srt",
+                         "type": "item"
 		},
 		{
 			"content": "movie",
