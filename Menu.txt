@@ -8,7 +8,7 @@
 Lembre-se de fornecer o máximo de detalhes possível ao relatar um link quebrado.
 Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 </info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/Lancamentos.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/main/test.json</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
