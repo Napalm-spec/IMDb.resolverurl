@@ -16,13 +16,13 @@
             "type": "dir",
             "title": "[COLOR green]•[/COLOR]Melhor Qualidade",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
-            "link": "https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/4k.xml"
+            "link": "https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/4k.json"
         },
         {
             "type": "dir",
             "title": "[COLOR red]•[/COLOR]Top 250 (Séries)",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
-            "link": "password//tmdb/tv/top_rated"
+            "link": "https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/4k.json"
         },
 		{
             "type": "dir",
